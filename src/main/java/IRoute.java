@@ -1,4 +1,4 @@
 public interface IRoute {
-    void FollowingOnRoute();       // установил маршрут
-    void putBusStopsToRoute(); // добавил остановку в маршрут
+    void createRoute();       // установил маршрут
+    String putBusStopsToRoute(); // добавил остановку в маршрут
 }

@@ -15,10 +15,9 @@ public class BusStop {
         busStops.put("cinema Mir", 1);
         busStops.put("winners square", 1);
         busStops.put("Gikalo street", 1);
-        busStops.put("Gikalo street", 1);
         busStops.put("Gorky Park", 1);
         for (Map.Entry<String, Integer> entry : entries) {
-            list.add(entry.getKey()+ " " + entry.getValue());
+            list.add(entry.getKey());
         }
     }
     static int busesLength(){

@@ -1,6 +1,7 @@
 public interface IBas {
-    void LeftOnTheRoute(); // автобус выехал на маршрут
+    void leftOnTheRoute(); // автобус выехал на маршрут
+    void pulledUpToBusStop(String busStop); // автобус подъехал к остановке (мгновенно)
     void disembarkationEmbarkationOfPassengers(); //высадка/посадка пассажиров занимает 3с
-    void leftTheBus(); // автобус отъехал от остановки(мгновенно)
+    void leftTheBus(String busStop); // автобус отъехал от остановки (мгновенно)
     void returnedToTheDepot(); // автобус вернулся в депо
 }

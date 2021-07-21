@@ -3997,3 +3997,2273 @@
 2021-07-16 15:40:37,776  INFO Bus - Bus № 8 left the stop
 2021-07-16 15:40:37,776  INFO Bus - Bus № 8 returned to the depot
 2021-07-16 15:40:37,777  INFO Route - ----------------------------The day has finish-----------------------------
+2021-07-21 07:08:21,584  INFO BusDepot - ----------------------------The day has begun-----------------------------
+2021-07-21 07:09:19,889  INFO BusDepot - ----------------------------The day has begun-----------------------------
+2021-07-21 07:11:06,872  INFO BusDepot - ----------------------------The day has begun-----------------------------
+2021-07-21 07:11:27,405  INFO BusDepot - ----------------------------The day has begun-----------------------------
+2021-07-21 07:11:55,794  INFO BusDepot - ----------------------------The day has begun-----------------------------
+2021-07-21 07:16:03,860  INFO BusDepot - ----------------------------The day has begun-----------------------------
+2021-07-21 07:16:03,872  INFO Bus - Bus № 2 the bus went on the route
+2021-07-21 07:16:03,873  INFO Bus - Bus № 1 the bus went on the route
+2021-07-21 07:16:03,873  INFO Bus - Bus № 2 returned to the depot
+2021-07-21 07:16:03,872  INFO Bus - Bus № 3 the bus went on the route
+2021-07-21 07:16:03,873  INFO Bus - Bus № 1 returned to the depot
+2021-07-21 07:16:03,874  INFO Bus - Bus № 3 returned to the depot
+2021-07-21 07:16:03,875  INFO Bus - Bus № 4 the bus went on the route
+2021-07-21 07:16:03,876  INFO Bus - Bus № 4 returned to the depot
+2021-07-21 07:16:03,876  INFO Bus - Bus № 7 the bus went on the route
+2021-07-21 07:16:03,876  INFO Bus - Bus № 5 the bus went on the route
+2021-07-21 07:16:03,877  INFO Bus - Bus № 9 the bus went on the route
+2021-07-21 07:16:03,876  INFO Bus - Bus № 7 returned to the depot
+2021-07-21 07:16:03,876  INFO Bus - Bus № 8 the bus went on the route
+2021-07-21 07:16:03,878  INFO Bus - Bus № 13 the bus went on the route
+2021-07-21 07:16:03,876  INFO Bus - Bus № 6 the bus went on the route
+2021-07-21 07:16:03,878  INFO Bus - Bus № 13 returned to the depot
+2021-07-21 07:16:03,878  INFO Bus - Bus № 8 returned to the depot
+2021-07-21 07:16:03,878  INFO Bus - Bus № 12 the bus went on the route
+2021-07-21 07:16:03,877  INFO Bus - Bus № 9 returned to the depot
+2021-07-21 07:16:03,877  INFO Bus - Bus № 11 the bus went on the route
+2021-07-21 07:16:03,877  INFO Bus - Bus № 10 the bus went on the route
+2021-07-21 07:16:03,877  INFO Bus - Bus № 5 returned to the depot
+2021-07-21 07:16:03,881  INFO Bus - Bus № 10 returned to the depot
+2021-07-21 07:16:03,881  INFO Bus - Bus № 11 returned to the depot
+2021-07-21 07:16:03,880  INFO Bus - Bus № 12 returned to the depot
+2021-07-21 07:16:03,879  INFO Bus - Bus № 6 returned to the depot
+2021-07-21 07:16:03,882  INFO BusDepot - ----------------------------The day has finish-----------------------------
+2021-07-21 07:17:55,997  INFO BusDepot - ----------------------------The day has begun-----------------------------
+2021-07-21 07:17:56,014  INFO Bus - Bus № 1 the bus went on the route
+2021-07-21 07:17:56,014  INFO Bus - Bus № 1 returned to the depot
+2021-07-21 07:17:56,015  INFO Bus - Bus № 2 the bus went on the route
+2021-07-21 07:17:56,016  INFO Bus - Bus № 4 the bus went on the route
+2021-07-21 07:17:56,016  INFO Bus - Bus № 4 returned to the depot
+2021-07-21 07:17:56,016  INFO Bus - Bus № 2 returned to the depot
+2021-07-21 07:17:56,016  INFO Bus - Bus № 5 the bus went on the route
+2021-07-21 07:17:56,016  INFO Bus - Bus № 3 the bus went on the route
+2021-07-21 07:17:56,018  INFO Bus - Bus № 11 the bus went on the route
+2021-07-21 07:17:56,019  INFO Bus - Bus № 11 returned to the depot
+2021-07-21 07:17:56,018  INFO Bus - Bus № 3 returned to the depot
+2021-07-21 07:17:56,018  INFO Bus - Bus № 12 the bus went on the route
+2021-07-21 07:17:56,020  INFO Bus - Bus № 12 returned to the depot
+2021-07-21 07:17:56,018  INFO Bus - Bus № 10 the bus went on the route
+2021-07-21 07:17:56,018  INFO Bus - Bus № 5 returned to the depot
+2021-07-21 07:17:56,018  INFO Bus - Bus № 9 the bus went on the route
+2021-07-21 07:17:56,017  INFO Bus - Bus № 8 the bus went on the route
+2021-07-21 07:17:56,017  INFO Bus - Bus № 7 the bus went on the route
+2021-07-21 07:17:56,016  INFO Bus - Bus № 6 the bus went on the route
+2021-07-21 07:17:56,024  INFO Bus - Bus № 7 returned to the depot
+2021-07-21 07:17:56,024  INFO Bus - Bus № 8 returned to the depot
+2021-07-21 07:17:56,024  INFO Bus - Bus № 9 returned to the depot
+2021-07-21 07:17:56,022  INFO Bus - Bus № 10 returned to the depot
+2021-07-21 07:17:56,025  INFO Bus - Bus № 6 returned to the depot
+2021-07-21 07:17:56,027  INFO BusDepot - ----------------------------The day has finish-----------------------------
+2021-07-21 07:18:15,216  INFO BusDepot - ----------------------------The day has begun-----------------------------
+2021-07-21 07:18:15,230  INFO Bus - Bus № 2 the bus went on the route
+2021-07-21 07:18:15,230  INFO Bus - Bus № 1 the bus went on the route
+2021-07-21 07:18:15,231  INFO Bus - Bus № 2 returned to the depot
+2021-07-21 07:18:15,231  INFO Bus - Bus № 1 returned to the depot
+2021-07-21 07:18:15,231  INFO Bus - Bus № 3 the bus went on the route
+2021-07-21 07:18:15,232  INFO Bus - Bus № 4 the bus went on the route
+2021-07-21 07:18:15,232  INFO Bus - Bus № 5 the bus went on the route
+2021-07-21 07:18:15,232  INFO Bus - Bus № 3 returned to the depot
+2021-07-21 07:18:15,233  INFO Bus - Bus № 8 the bus went on the route
+2021-07-21 07:18:15,233  INFO Bus - Bus № 7 the bus went on the route
+2021-07-21 07:18:15,233  INFO Bus - Bus № 5 returned to the depot
+2021-07-21 07:18:15,234  INFO Bus - Bus № 14 the bus went on the route
+2021-07-21 07:18:15,233  INFO Bus - Bus № 6 the bus went on the route
+2021-07-21 07:18:15,233  INFO Bus - Bus № 4 returned to the depot
+2021-07-21 07:18:15,235  INFO Bus - Bus № 6 returned to the depot
+2021-07-21 07:18:15,235  INFO Bus - Bus № 14 returned to the depot
+2021-07-21 07:18:15,235  INFO Bus - Bus № 11 the bus went on the route
+2021-07-21 07:18:15,234  INFO Bus - Bus № 13 the bus went on the route
+2021-07-21 07:18:15,234  INFO Bus - Bus № 7 returned to the depot
+2021-07-21 07:18:15,234  INFO Bus - Bus № 12 the bus went on the route
+2021-07-21 07:18:15,238  INFO Bus - Bus № 12 returned to the depot
+2021-07-21 07:18:15,234  INFO Bus - Bus № 8 returned to the depot
+2021-07-21 07:18:15,234  INFO Bus - Bus № 10 the bus went on the route
+2021-07-21 07:18:15,233  INFO Bus - Bus № 9 the bus went on the route
+2021-07-21 07:18:15,239  INFO Bus - Bus № 10 returned to the depot
+2021-07-21 07:18:15,237  INFO Bus - Bus № 13 returned to the depot
+2021-07-21 07:18:15,237  INFO Bus - Bus № 11 returned to the depot
+2021-07-21 07:18:15,239  INFO Bus - Bus № 9 returned to the depot
+2021-07-21 07:18:15,240  INFO BusDepot - ----------------------------The day has finish-----------------------------
+2021-07-21 07:18:31,207  INFO BusDepot - ----------------------------The day has begun-----------------------------
+2021-07-21 07:18:31,219  INFO Bus - Bus № 1 the bus went on the route
+2021-07-21 07:18:31,219  INFO Bus - Bus № 2 the bus went on the route
+2021-07-21 07:18:31,219  INFO Bus - Bus № 3 the bus went on the route
+2021-07-21 07:18:31,219  INFO Bus - Bus № 1 returned to the depot
+2021-07-21 07:18:31,220  INFO Bus - Bus № 3 returned to the depot
+2021-07-21 07:18:31,220  INFO Bus - Bus № 2 returned to the depot
+2021-07-21 07:18:31,221  INFO Bus - Bus № 6 the bus went on the route
+2021-07-21 07:18:31,221  INFO Bus - Bus № 5 the bus went on the route
+2021-07-21 07:18:31,222  INFO Bus - Bus № 5 returned to the depot
+2021-07-21 07:18:31,223  INFO Bus - Bus № 8 the bus went on the route
+2021-07-21 07:18:31,223  INFO Bus - Bus № 8 returned to the depot
+2021-07-21 07:18:31,220  INFO Bus - Bus № 4 the bus went on the route
+2021-07-21 07:18:31,224  INFO Bus - Bus № 4 returned to the depot
+2021-07-21 07:18:31,222  INFO Bus - Bus № 6 returned to the depot
+2021-07-21 07:18:31,226  INFO Bus - Bus № 9 the bus went on the route
+2021-07-21 07:18:31,227  INFO Bus - Bus № 9 returned to the depot
+2021-07-21 07:18:31,226  INFO Bus - Bus № 11 the bus went on the route
+2021-07-21 07:18:31,228  INFO Bus - Bus № 11 returned to the depot
+2021-07-21 07:18:31,228  INFO Bus - Bus № 13 the bus went on the route
+2021-07-21 07:18:31,228  INFO Bus - Bus № 13 returned to the depot
+2021-07-21 07:18:31,229  INFO Bus - Bus № 7 the bus went on the route
+2021-07-21 07:18:31,229  INFO Bus - Bus № 7 returned to the depot
+2021-07-21 07:18:31,228  INFO Bus - Bus № 12 the bus went on the route
+2021-07-21 07:18:31,229  INFO Bus - Bus № 10 the bus went on the route
+2021-07-21 07:18:31,230  INFO Bus - Bus № 12 returned to the depot
+2021-07-21 07:18:31,230  INFO Bus - Bus № 10 returned to the depot
+2021-07-21 07:18:31,231  INFO BusDepot - ----------------------------The day has finish-----------------------------
+2021-07-21 07:19:20,951  INFO BusDepot - ----------------------------The day has begun-----------------------------
+2021-07-21 07:19:20,983  INFO Bus - Bus № 1 the bus went on the route
+2021-07-21 07:19:20,988  INFO Bus - Bus № 1 returned to the depot
+2021-07-21 07:19:21,000  INFO Bus - Bus № 2 the bus went on the route
+2021-07-21 07:19:21,001  INFO Bus - Bus № 2 returned to the depot
+2021-07-21 07:19:21,003  INFO Bus - Bus № 3 the bus went on the route
+2021-07-21 07:19:21,003  INFO Bus - Bus № 3 returned to the depot
+2021-07-21 07:19:21,005  INFO Bus - Bus № 4 the bus went on the route
+2021-07-21 07:19:21,006  INFO Bus - Bus № 4 returned to the depot
+2021-07-21 07:19:21,007  INFO Bus - Bus № 6 the bus went on the route
+2021-07-21 07:19:21,008  INFO Bus - Bus № 6 returned to the depot
+2021-07-21 07:19:21,009  INFO Bus - Bus № 8 the bus went on the route
+2021-07-21 07:19:21,009  INFO Bus - Bus № 8 returned to the depot
+2021-07-21 07:19:21,011  INFO Bus - Bus № 5 the bus went on the route
+2021-07-21 07:19:21,012  INFO Bus - Bus № 5 returned to the depot
+2021-07-21 07:19:21,013  INFO Bus - Bus № 9 the bus went on the route
+2021-07-21 07:19:21,014  INFO Bus - Bus № 9 returned to the depot
+2021-07-21 07:19:21,015  INFO Bus - Bus № 7 the bus went on the route
+2021-07-21 07:19:21,016  INFO Bus - Bus № 7 returned to the depot
+2021-07-21 07:19:21,020  INFO BusDepot - ----------------------------The day has finish-----------------------------
+2021-07-21 07:21:38,023  INFO BusDepot - ----------------------------The day has begun-----------------------------
+2021-07-21 07:21:38,038  INFO Bus - Bus № 1 the bus went on the route
+2021-07-21 07:21:38,038  INFO Bus - Bus № 2 the bus went on the route
+2021-07-21 07:21:38,039  INFO Bus - Bus № 2 returned to the depot
+2021-07-21 07:21:38,039  INFO Bus - Bus № 1 returned to the depot
+2021-07-21 07:21:38,040  INFO Bus - Bus № 3 the bus went on the route
+2021-07-21 07:21:38,040  INFO Bus - Bus № 6 the bus went on the route
+2021-07-21 07:21:38,040  INFO Bus - Bus № 5 the bus went on the route
+2021-07-21 07:21:38,041  INFO Bus - Bus № 5 returned to the depot
+2021-07-21 07:21:38,042  INFO Bus - Bus № 10 the bus went on the route
+2021-07-21 07:21:38,040  INFO Bus - Bus № 4 the bus went on the route
+2021-07-21 07:21:38,042  INFO Bus - Bus № 4 returned to the depot
+2021-07-21 07:21:38,042  INFO Bus - Bus № 12 the bus went on the route
+2021-07-21 07:21:38,042  INFO Bus - Bus № 10 returned to the depot
+2021-07-21 07:21:38,042  INFO Bus - Bus № 11 the bus went on the route
+2021-07-21 07:21:38,041  INFO Bus - Bus № 9 the bus went on the route
+2021-07-21 07:21:38,046  INFO Bus - Bus № 9 returned to the depot
+2021-07-21 07:21:38,041  INFO Bus - Bus № 8 the bus went on the route
+2021-07-21 07:21:38,047  INFO Bus - Bus № 8 returned to the depot
+2021-07-21 07:21:38,041  INFO Bus - Bus № 7 the bus went on the route
+2021-07-21 07:21:38,041  INFO Bus - Bus № 6 returned to the depot
+2021-07-21 07:21:38,041  INFO Bus - Bus № 3 returned to the depot
+2021-07-21 07:21:38,048  INFO Bus - Bus № 7 returned to the depot
+2021-07-21 07:21:38,044  INFO Bus - Bus № 11 returned to the depot
+2021-07-21 07:21:38,043  INFO Bus - Bus № 12 returned to the depot
+2021-07-21 07:21:38,050  INFO BusDepot - ----------------------------The day has finish-----------------------------
+2021-07-21 07:26:24,620  INFO BusDepot - ----------------------------The day has begun-----------------------------
+2021-07-21 07:26:24,634  INFO Bus - Bus № 1 the bus went on the route
+2021-07-21 07:26:24,635  INFO Bus - Bus № 1 returned to the depot
+2021-07-21 07:26:24,636  INFO Bus - Bus № 3 the bus went on the route
+2021-07-21 07:26:24,637  INFO Bus - Bus № 3 returned to the depot
+2021-07-21 07:26:24,636  INFO Bus - Bus № 2 the bus went on the route
+2021-07-21 07:26:24,637  INFO Bus - Bus № 2 returned to the depot
+2021-07-21 07:26:24,637  INFO Bus - Bus № 5 the bus went on the route
+2021-07-21 07:26:24,638  INFO Bus - Bus № 5 returned to the depot
+2021-07-21 07:26:24,637  INFO Bus - Bus № 4 the bus went on the route
+2021-07-21 07:26:24,639  INFO Bus - Bus № 9 the bus went on the route
+2021-07-21 07:26:24,640  INFO Bus - Bus № 9 returned to the depot
+2021-07-21 07:26:24,638  INFO Bus - Bus № 8 the bus went on the route
+2021-07-21 07:26:24,640  INFO Bus - Bus № 8 returned to the depot
+2021-07-21 07:26:24,638  INFO Bus - Bus № 7 the bus went on the route
+2021-07-21 07:26:24,643  INFO Bus - Bus № 7 returned to the depot
+2021-07-21 07:26:24,638  INFO Bus - Bus № 6 the bus went on the route
+2021-07-21 07:26:24,644  INFO Bus - Bus № 6 returned to the depot
+2021-07-21 07:26:24,639  INFO Bus - Bus № 4 returned to the depot
+2021-07-21 07:26:24,646  INFO BusDepot - ----------------------------The day has finish-----------------------------
+2021-07-21 07:26:34,264  INFO BusDepot - ----------------------------The day has begun-----------------------------
+2021-07-21 07:26:34,277  INFO Bus - Bus № 1 the bus went on the route
+2021-07-21 07:26:34,278  INFO Bus - Bus № 3 the bus went on the route
+2021-07-21 07:26:34,278  INFO Bus - Bus № 3 returned to the depot
+2021-07-21 07:26:34,277  INFO Bus - Bus № 2 the bus went on the route
+2021-07-21 07:26:34,279  INFO Bus - Bus № 2 returned to the depot
+2021-07-21 07:26:34,279  INFO Bus - Bus № 1 returned to the depot
+2021-07-21 07:26:34,280  INFO Bus - Bus № 4 the bus went on the route
+2021-07-21 07:26:34,280  INFO Bus - Bus № 5 the bus went on the route
+2021-07-21 07:26:34,281  INFO Bus - Bus № 6 the bus went on the route
+2021-07-21 07:26:34,280  INFO Bus - Bus № 4 returned to the depot
+2021-07-21 07:26:34,282  INFO Bus - Bus № 13 the bus went on the route
+2021-07-21 07:26:34,281  INFO Bus - Bus № 11 the bus went on the route
+2021-07-21 07:26:34,281  INFO Bus - Bus № 6 returned to the depot
+2021-07-21 07:26:34,281  INFO Bus - Bus № 10 the bus went on the route
+2021-07-21 07:26:34,281  INFO Bus - Bus № 9 the bus went on the route
+2021-07-21 07:26:34,281  INFO Bus - Bus № 8 the bus went on the route
+2021-07-21 07:26:34,281  INFO Bus - Bus № 5 returned to the depot
+2021-07-21 07:26:34,284  INFO Bus - Bus № 8 returned to the depot
+2021-07-21 07:26:34,284  INFO Bus - Bus № 9 returned to the depot
+2021-07-21 07:26:34,284  INFO Bus - Bus № 10 returned to the depot
+2021-07-21 07:26:34,282  INFO Bus - Bus № 11 returned to the depot
+2021-07-21 07:26:34,282  INFO Bus - Bus № 7 the bus went on the route
+2021-07-21 07:26:34,282  INFO Bus - Bus № 13 returned to the depot
+2021-07-21 07:26:34,282  INFO Bus - Bus № 14 the bus went on the route
+2021-07-21 07:26:34,282  INFO Bus - Bus № 12 the bus went on the route
+2021-07-21 07:26:34,287  INFO Bus - Bus № 14 returned to the depot
+2021-07-21 07:26:34,286  INFO Bus - Bus № 7 returned to the depot
+2021-07-21 07:26:34,287  INFO Bus - Bus № 12 returned to the depot
+2021-07-21 07:26:34,288  INFO BusDepot - ----------------------------The day has finish-----------------------------
+2021-07-21 07:26:43,348  INFO BusDepot - ----------------------------The day has begun-----------------------------
+2021-07-21 07:26:43,363  INFO Bus - Bus № 1 the bus went on the route
+2021-07-21 07:26:43,363  INFO Bus - Bus № 2 the bus went on the route
+2021-07-21 07:26:43,363  INFO Bus - Bus № 1 returned to the depot
+2021-07-21 07:26:43,364  INFO Bus - Bus № 2 returned to the depot
+2021-07-21 07:26:43,364  INFO Bus - Bus № 3 the bus went on the route
+2021-07-21 07:26:43,365  INFO Bus - Bus № 5 the bus went on the route
+2021-07-21 07:26:43,364  INFO Bus - Bus № 4 the bus went on the route
+2021-07-21 07:26:43,366  INFO Bus - Bus № 8 the bus went on the route
+2021-07-21 07:26:43,366  INFO Bus - Bus № 8 returned to the depot
+2021-07-21 07:26:43,365  INFO Bus - Bus № 7 the bus went on the route
+2021-07-21 07:26:43,365  INFO Bus - Bus № 5 returned to the depot
+2021-07-21 07:26:43,365  INFO Bus - Bus № 6 the bus went on the route
+2021-07-21 07:26:43,367  INFO Bus - Bus № 6 returned to the depot
+2021-07-21 07:26:43,365  INFO Bus - Bus № 3 returned to the depot
+2021-07-21 07:26:43,367  INFO Bus - Bus № 7 returned to the depot
+2021-07-21 07:26:43,366  INFO Bus - Bus № 13 the bus went on the route
+2021-07-21 07:26:43,366  INFO Bus - Bus № 12 the bus went on the route
+2021-07-21 07:26:43,370  INFO Bus - Bus № 12 returned to the depot
+2021-07-21 07:26:43,366  INFO Bus - Bus № 11 the bus went on the route
+2021-07-21 07:26:43,366  INFO Bus - Bus № 10 the bus went on the route
+2021-07-21 07:26:43,366  INFO Bus - Bus № 9 the bus went on the route
+2021-07-21 07:26:43,366  INFO Bus - Bus № 4 returned to the depot
+2021-07-21 07:26:43,372  INFO Bus - Bus № 9 returned to the depot
+2021-07-21 07:26:43,371  INFO Bus - Bus № 10 returned to the depot
+2021-07-21 07:26:43,371  INFO Bus - Bus № 11 returned to the depot
+2021-07-21 07:26:43,369  INFO Bus - Bus № 13 returned to the depot
+2021-07-21 07:26:43,373  INFO BusDepot - ----------------------------The day has finish-----------------------------
+2021-07-21 07:46:33,700  INFO BusDepot - ----------------------------The day has begun-----------------------------
+2021-07-21 07:46:33,717  INFO Bus - Bus № 1 the bus went on the route
+2021-07-21 07:46:33,717  INFO Bus - Bus № 2 the bus went on the route
+2021-07-21 07:46:33,718  INFO Bus - Bus № 2 returned to the depot
+2021-07-21 07:46:33,717  INFO Bus - Bus № 1 returned to the depot
+2021-07-21 07:46:33,718  INFO Bus - Bus № 3 the bus went on the route
+2021-07-21 07:46:33,719  INFO Bus - Bus № 6 the bus went on the route
+2021-07-21 07:46:33,719  INFO Bus - Bus № 6 returned to the depot
+2021-07-21 07:46:33,720  INFO Bus - Bus № 9 the bus went on the route
+2021-07-21 07:46:33,719  INFO Bus - Bus № 5 the bus went on the route
+2021-07-21 07:46:33,721  INFO Bus - Bus № 5 returned to the depot
+2021-07-21 07:46:33,721  INFO Bus - Bus № 13 the bus went on the route
+2021-07-21 07:46:33,721  INFO Bus - Bus № 13 returned to the depot
+2021-07-21 07:46:33,719  INFO Bus - Bus № 4 the bus went on the route
+2021-07-21 07:46:33,722  INFO Bus - Bus № 4 returned to the depot
+2021-07-21 07:46:33,721  INFO Bus - Bus № 14 the bus went on the route
+2021-07-21 07:46:33,723  INFO Bus - Bus № 14 returned to the depot
+2021-07-21 07:46:33,721  INFO Bus - Bus № 10 the bus went on the route
+2021-07-21 07:46:33,725  INFO Bus - Bus № 10 returned to the depot
+2021-07-21 07:46:33,721  INFO Bus - Bus № 12 the bus went on the route
+2021-07-21 07:46:33,726  INFO Bus - Bus № 12 returned to the depot
+2021-07-21 07:46:33,720  INFO Bus - Bus № 11 the bus went on the route
+2021-07-21 07:46:33,727  INFO Bus - Bus № 11 returned to the depot
+2021-07-21 07:46:33,720  INFO Bus - Bus № 9 returned to the depot
+2021-07-21 07:46:33,720  INFO Bus - Bus № 8 the bus went on the route
+2021-07-21 07:46:33,728  INFO Bus - Bus № 8 returned to the depot
+2021-07-21 07:46:33,719  INFO Bus - Bus № 7 the bus went on the route
+2021-07-21 07:46:33,719  INFO Bus - Bus № 3 returned to the depot
+2021-07-21 07:46:33,729  INFO Bus - Bus № 7 returned to the depot
+2021-07-21 07:46:33,730  INFO BusDepot - ----------------------------The day has finish-----------------------------
+2021-07-21 07:48:32,118  INFO BusDepot - ----------------------------The day has begun-----------------------------
+2021-07-21 07:48:32,131  INFO Bus - Bus № 2 the bus went on the route
+2021-07-21 07:48:32,132  INFO Bus - Bus № 3 the bus went on the route
+2021-07-21 07:48:32,131  INFO Bus - Bus № 1 the bus went on the route
+2021-07-21 07:48:32,133  INFO Bus - Bus № 3 returned to the depot
+2021-07-21 07:48:32,132  INFO Bus - Bus № 5 the bus went on the route
+2021-07-21 07:48:32,132  INFO Bus - Bus № 4 the bus went on the route
+2021-07-21 07:48:32,134  INFO Bus - Bus № 4 returned to the depot
+2021-07-21 07:48:32,132  INFO Bus - Bus № 2 returned to the depot
+2021-07-21 07:48:32,134  INFO Bus - Bus № 12 the bus went on the route
+2021-07-21 07:48:32,134  INFO Bus - Bus № 11 the bus went on the route
+2021-07-21 07:48:32,135  INFO Bus - Bus № 11 returned to the depot
+2021-07-21 07:48:32,134  INFO Bus - Bus № 10 the bus went on the route
+2021-07-21 07:48:32,134  INFO Bus - Bus № 9 the bus went on the route
+2021-07-21 07:48:32,134  INFO Bus - Bus № 8 the bus went on the route
+2021-07-21 07:48:32,134  INFO Bus - Bus № 5 returned to the depot
+2021-07-21 07:48:32,134  INFO Bus - Bus № 7 the bus went on the route
+2021-07-21 07:48:32,137  INFO Bus - Bus № 7 returned to the depot
+2021-07-21 07:48:32,133  INFO Bus - Bus № 6 the bus went on the route
+2021-07-21 07:48:32,133  INFO Bus - Bus № 1 returned to the depot
+2021-07-21 07:48:32,138  INFO Bus - Bus № 6 returned to the depot
+2021-07-21 07:48:32,137  INFO Bus - Bus № 8 returned to the depot
+2021-07-21 07:48:32,136  INFO Bus - Bus № 9 returned to the depot
+2021-07-21 07:48:32,136  INFO Bus - Bus № 10 returned to the depot
+2021-07-21 07:48:32,135  INFO Bus - Bus № 12 returned to the depot
+2021-07-21 07:48:32,140  INFO BusDepot - ----------------------------The day has finish-----------------------------
+2021-07-21 07:50:39,563  INFO BusDepot - ----------------------------The day has begun-----------------------------
+2021-07-21 07:50:39,575  INFO Bus - Bus № 1 the bus went on the route
+2021-07-21 07:50:39,576  INFO Bus - Bus № 1 returned to the depot
+2021-07-21 07:50:39,577  INFO Bus - Bus № 2 the bus went on the route
+2021-07-21 07:50:39,578  INFO Bus - Bus № 4 the bus went on the route
+2021-07-21 07:50:39,578  INFO Bus - Bus № 4 returned to the depot
+2021-07-21 07:50:39,577  INFO Bus - Bus № 3 the bus went on the route
+2021-07-21 07:50:39,579  INFO Bus - Bus № 3 returned to the depot
+2021-07-21 07:50:39,580  INFO Bus - Bus № 5 the bus went on the route
+2021-07-21 07:50:39,578  INFO Bus - Bus № 2 returned to the depot
+2021-07-21 07:50:39,581  INFO Bus - Bus № 8 the bus went on the route
+2021-07-21 07:50:39,581  INFO Bus - Bus № 8 returned to the depot
+2021-07-21 07:50:39,580  INFO Bus - Bus № 5 returned to the depot
+2021-07-21 07:50:39,580  INFO Bus - Bus № 6 the bus went on the route
+2021-07-21 07:50:39,583  INFO Bus - Bus № 6 returned to the depot
+2021-07-21 07:50:39,582  INFO Bus - Bus № 7 the bus went on the route
+2021-07-21 07:50:39,584  INFO Bus - Bus № 7 returned to the depot
+2021-07-21 07:50:39,585  INFO BusDepot - ----------------------------The day has finish-----------------------------
+2021-07-21 07:56:33,702  INFO BusDepot - ----------------------------The day has begun-----------------------------
+2021-07-21 07:56:33,717  INFO Bus - Bus № 1 the bus went on the route
+2021-07-21 07:56:33,718  INFO Bus - Bus № 1 returned to the depot
+2021-07-21 07:56:33,719  INFO Bus - Bus № 2 the bus went on the route
+2021-07-21 07:56:33,719  INFO Bus - Bus № 3 the bus went on the route
+2021-07-21 07:56:33,720  INFO Bus - Bus № 3 returned to the depot
+2021-07-21 07:56:33,720  INFO Bus - Bus № 5 the bus went on the route
+2021-07-21 07:56:33,720  INFO Bus - Bus № 5 returned to the depot
+2021-07-21 07:56:33,719  INFO Bus - Bus № 2 returned to the depot
+2021-07-21 07:56:33,721  INFO Bus - Bus № 8 the bus went on the route
+2021-07-21 07:56:33,721  INFO Bus - Bus № 7 the bus went on the route
+2021-07-21 07:56:33,720  INFO Bus - Bus № 6 the bus went on the route
+2021-07-21 07:56:33,720  INFO Bus - Bus № 4 the bus went on the route
+2021-07-21 07:56:33,722  INFO Bus - Bus № 6 returned to the depot
+2021-07-21 07:56:33,722  INFO Bus - Bus № 7 returned to the depot
+2021-07-21 07:56:33,722  INFO Bus - Bus № 8 returned to the depot
+2021-07-21 07:56:33,722  INFO Bus - Bus № 10 the bus went on the route
+2021-07-21 07:56:33,721  INFO Bus - Bus № 9 the bus went on the route
+2021-07-21 07:56:33,725  INFO Bus - Bus № 10 returned to the depot
+2021-07-21 07:56:33,723  INFO Bus - Bus № 4 returned to the depot
+2021-07-21 07:56:33,725  INFO Bus - Bus № 9 returned to the depot
+2021-07-21 07:56:33,726  INFO BusDepot - ----------------------------The day has finish-----------------------------
+2021-07-21 07:57:59,683  INFO BusDepot - ----------------------------The day has begun-----------------------------
+2021-07-21 07:57:59,699  INFO Bus - Bus № 1 the bus went on the route
+2021-07-21 07:57:59,699  INFO Bus - Bus № 2 the bus went on the route
+2021-07-21 07:57:59,699  INFO Bus - Bus № 1 returned to the depot
+2021-07-21 07:57:59,699  INFO Bus - Bus № 2 returned to the depot
+2021-07-21 07:57:59,700  INFO Bus - Bus № 3 the bus went on the route
+2021-07-21 07:57:59,701  INFO Bus - Bus № 3 returned to the depot
+2021-07-21 07:57:59,701  INFO Bus - Bus № 4 the bus went on the route
+2021-07-21 07:57:59,702  INFO Bus - Bus № 6 the bus went on the route
+2021-07-21 07:57:59,702  INFO Bus - Bus № 6 returned to the depot
+2021-07-21 07:57:59,702  INFO Bus - Bus № 10 the bus went on the route
+2021-07-21 07:57:59,703  INFO Bus - Bus № 10 returned to the depot
+2021-07-21 07:57:59,701  INFO Bus - Bus № 5 the bus went on the route
+2021-07-21 07:57:59,703  INFO Bus - Bus № 13 the bus went on the route
+2021-07-21 07:57:59,703  INFO Bus - Bus № 12 the bus went on the route
+2021-07-21 07:57:59,705  INFO Bus - Bus № 12 returned to the depot
+2021-07-21 07:57:59,702  INFO Bus - Bus № 9 the bus went on the route
+2021-07-21 07:57:59,702  INFO Bus - Bus № 8 the bus went on the route
+2021-07-21 07:57:59,708  INFO Bus - Bus № 8 returned to the depot
+2021-07-21 07:57:59,702  INFO Bus - Bus № 7 the bus went on the route
+2021-07-21 07:57:59,709  INFO Bus - Bus № 7 returned to the depot
+2021-07-21 07:57:59,702  INFO Bus - Bus № 11 the bus went on the route
+2021-07-21 07:57:59,710  INFO Bus - Bus № 11 returned to the depot
+2021-07-21 07:57:59,702  INFO Bus - Bus № 4 returned to the depot
+2021-07-21 07:57:59,707  INFO Bus - Bus № 9 returned to the depot
+2021-07-21 07:57:59,704  INFO Bus - Bus № 13 returned to the depot
+2021-07-21 07:57:59,704  INFO Bus - Bus № 5 returned to the depot
+2021-07-21 07:57:59,712  INFO BusDepot - ----------------------------The day has finish-----------------------------
+2021-07-21 09:02:12,220  INFO BusDepot - ----------------------------The day has begun-----------------------------
+2021-07-21 09:02:12,229  INFO BusDepot - Route {busStops [cinema Mir, Independence Square, cinema Mir]}
+2021-07-21 09:02:12,237  INFO Bus - Bus № 1 went on the route
+2021-07-21 09:02:12,238  INFO Bus - Bus № 1 returned to the depot
+2021-07-21 09:02:12,239  INFO Bus - Bus № 2 went on the route
+2021-07-21 09:02:12,239  INFO Bus - Bus № 3 went on the route
+2021-07-21 09:02:12,240  INFO Bus - Bus № 3 returned to the depot
+2021-07-21 09:02:12,240  INFO Bus - Bus № 2 returned to the depot
+2021-07-21 09:02:12,240  INFO Bus - Bus № 6 went on the route
+2021-07-21 09:02:12,241  INFO Bus - Bus № 6 returned to the depot
+2021-07-21 09:02:12,241  INFO Bus - Bus № 10 went on the route
+2021-07-21 09:02:12,242  INFO Bus - Bus № 10 returned to the depot
+2021-07-21 09:02:12,242  INFO Bus - Bus № 8 went on the route
+2021-07-21 09:02:12,242  INFO Bus - Bus № 8 returned to the depot
+2021-07-21 09:02:12,239  INFO Bus - Bus № 4 went on the route
+2021-07-21 09:02:12,241  INFO Bus - Bus № 9 went on the route
+2021-07-21 09:02:12,244  INFO Bus - Bus № 9 returned to the depot
+2021-07-21 09:02:12,241  INFO Bus - Bus № 7 went on the route
+2021-07-21 09:02:12,245  INFO Bus - Bus № 7 returned to the depot
+2021-07-21 09:02:12,240  INFO Bus - Bus № 5 went on the route
+2021-07-21 09:02:12,246  INFO Bus - Bus № 5 returned to the depot
+2021-07-21 09:02:12,243  INFO Bus - Bus № 4 returned to the depot
+2021-07-21 09:02:12,248  INFO BusDepot - ----------------------------The day has finish-----------------------------
+2021-07-21 09:09:07,942  INFO BusDepot - ----------------------------The day has begun-----------------------------
+2021-07-21 09:09:07,953  INFO BusDepot - Route {busStops [winners square, winners square, Krasnozvezdnaya street, cinema Mir]}
+2021-07-21 09:09:07,961  INFO Bus - Bus № 1 went on the route
+2021-07-21 09:09:07,962  INFO Bus - Bus № 1 drove up to the winners square bus stop 
+2021-07-21 09:09:07,963  INFO Bus - Bus № 2 went on the route
+2021-07-21 09:09:07,963  INFO Bus - Bus № 3 went on the route
+2021-07-21 09:09:07,963  INFO Bus - Bus № 4 went on the route
+2021-07-21 09:09:07,964  INFO Bus - Bus № 4 drove up to the winners square bus stop 
+2021-07-21 09:09:07,963  INFO Bus - Bus № 2 drove up to the winners square bus stop 
+2021-07-21 09:09:07,964  INFO Bus - Bus № 6 went on the route
+2021-07-21 09:09:07,964  INFO Bus - Bus № 5 went on the route
+2021-07-21 09:09:07,966  INFO Bus - Bus № 5 drove up to the winners square bus stop 
+2021-07-21 09:09:07,963  INFO Bus - Bus № 3 drove up to the winners square bus stop 
+2021-07-21 09:09:07,965  INFO Bus - Bus № 6 drove up to the winners square bus stop 
+2021-07-21 09:09:08,004  INFO Bus - Bus № 6 left the stop winners square
+2021-07-21 09:09:08,006  INFO Bus - Bus № 6 drove up to the winners square bus stop 
+2021-07-21 09:09:08,005  INFO Bus - Bus № 1 left the stop winners square
+2021-07-21 09:09:08,007  INFO Bus - Bus № 1 drove up to the winners square bus stop 
+2021-07-21 09:09:08,005  INFO Bus - Bus № 2 left the stop winners square
+2021-07-21 09:09:08,007  INFO Bus - Bus № 2 drove up to the winners square bus stop 
+2021-07-21 09:09:08,005  INFO Bus - Bus № 4 left the stop winners square
+2021-07-21 09:09:08,008  INFO Bus - Bus № 4 drove up to the winners square bus stop 
+2021-07-21 09:09:08,005  INFO Bus - Bus № 3 left the stop winners square
+2021-07-21 09:09:08,009  INFO Bus - Bus № 3 drove up to the winners square bus stop 
+2021-07-21 09:09:08,005  INFO Bus - Bus № 5 left the stop winners square
+2021-07-21 09:09:08,009  INFO Bus - Bus № 5 drove up to the winners square bus stop 
+2021-07-21 09:09:08,060  INFO Bus - Bus № 5 left the stop winners square
+2021-07-21 09:09:08,060  INFO Bus - Bus № 5 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:09:08,062  INFO Bus - Bus № 3 left the stop winners square
+2021-07-21 09:09:08,062  INFO Bus - Bus № 3 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:09:08,062  INFO Bus - Bus № 2 left the stop winners square
+2021-07-21 09:09:08,065  INFO Bus - Bus № 2 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:09:08,074  INFO Bus - Bus № 4 left the stop winners square
+2021-07-21 09:09:08,075  INFO Bus - Bus № 6 left the stop winners square
+2021-07-21 09:09:08,075  INFO Bus - Bus № 1 left the stop winners square
+2021-07-21 09:09:08,075  INFO Bus - Bus № 4 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:09:08,075  INFO Bus - Bus № 1 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:09:08,075  INFO Bus - Bus № 6 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:09:08,100  INFO Bus - Bus № 3 left the stop Krasnozvezdnaya street
+2021-07-21 09:09:08,101  INFO Bus - Bus № 3 drove up to the cinema Mir bus stop 
+2021-07-21 09:09:08,102  INFO Bus - Bus № 5 left the stop Krasnozvezdnaya street
+2021-07-21 09:09:08,102  INFO Bus - Bus № 5 drove up to the cinema Mir bus stop 
+2021-07-21 09:09:08,116  INFO Bus - Bus № 4 left the stop Krasnozvezdnaya street
+2021-07-21 09:09:08,117  INFO Bus - Bus № 4 drove up to the cinema Mir bus stop 
+2021-07-21 09:09:08,118  INFO Bus - Bus № 1 left the stop Krasnozvezdnaya street
+2021-07-21 09:09:08,118  INFO Bus - Bus № 1 drove up to the cinema Mir bus stop 
+2021-07-21 09:09:08,119  INFO Bus - Bus № 6 left the stop Krasnozvezdnaya street
+2021-07-21 09:09:08,120  INFO Bus - Bus № 6 drove up to the cinema Mir bus stop 
+2021-07-21 09:09:08,120  INFO Bus - Bus № 2 left the stop Krasnozvezdnaya street
+2021-07-21 09:09:08,121  INFO Bus - Bus № 2 drove up to the cinema Mir bus stop 
+2021-07-21 09:09:08,137  INFO Bus - Bus № 3 left the stop cinema Mir
+2021-07-21 09:09:08,145  INFO Bus - Bus № 3 returned to the depot
+2021-07-21 09:09:08,146  INFO Bus - Bus № 5 left the stop cinema Mir
+2021-07-21 09:09:08,146  INFO Bus - Bus № 5 returned to the depot
+2021-07-21 09:09:08,163  INFO Bus - Bus № 2 left the stop cinema Mir
+2021-07-21 09:09:08,163  INFO Bus - Bus № 4 left the stop cinema Mir
+2021-07-21 09:09:08,164  INFO Bus - Bus № 4 returned to the depot
+2021-07-21 09:09:08,163  INFO Bus - Bus № 1 left the stop cinema Mir
+2021-07-21 09:09:08,165  INFO Bus - Bus № 1 returned to the depot
+2021-07-21 09:09:08,163  INFO Bus - Bus № 6 left the stop cinema Mir
+2021-07-21 09:09:08,166  INFO Bus - Bus № 6 returned to the depot
+2021-07-21 09:09:08,164  INFO Bus - Bus № 2 returned to the depot
+2021-07-21 09:09:08,167  INFO BusDepot - ----------------------------The day has finish-----------------------------
+2021-07-21 09:10:14,016  INFO BusDepot - ----------------------------The day has begun-----------------------------
+2021-07-21 09:10:14,025  INFO BusDepot - Route {busStops [cinema Mir, Gikalo street, Yakub Kolas Square]}
+2021-07-21 09:10:14,033  INFO Bus - Bus № 2 went on the route
+2021-07-21 09:10:14,033  INFO Bus - Bus № 1 went on the route
+2021-07-21 09:10:14,033  INFO Bus - Bus № 2 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,033  INFO Bus - Bus № 1 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,034  INFO Bus - Bus № 3 went on the route
+2021-07-21 09:10:14,034  INFO Bus - Bus № 3 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,035  INFO Bus - Bus № 4 went on the route
+2021-07-21 09:10:14,035  INFO Bus - Bus № 5 went on the route
+2021-07-21 09:10:14,035  INFO Bus - Bus № 6 went on the route
+2021-07-21 09:10:14,035  INFO Bus - Bus № 4 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,036  INFO Bus - Bus № 6 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,035  INFO Bus - Bus № 5 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,037  INFO Bus - Bus № 7 went on the route
+2021-07-21 09:10:14,038  INFO Bus - Bus № 7 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,040  INFO Bus - Bus № 8 went on the route
+2021-07-21 09:10:14,041  INFO Bus - Bus № 8 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,042  INFO Bus - Bus № 9 went on the route
+2021-07-21 09:10:14,042  INFO Bus - Bus № 9 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,044  INFO Bus - Bus № 10 went on the route
+2021-07-21 09:10:14,044  INFO Bus - Bus № 10 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,044  INFO Bus - Bus № 11 went on the route
+2021-07-21 09:10:14,044  INFO Bus - Bus № 12 went on the route
+2021-07-21 09:10:14,045  INFO Bus - Bus № 13 went on the route
+2021-07-21 09:10:14,045  INFO Bus - Bus № 11 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,045  INFO Bus - Bus № 16 went on the route
+2021-07-21 09:10:14,045  INFO Bus - Bus № 13 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,045  INFO Bus - Bus № 15 went on the route
+2021-07-21 09:10:14,045  INFO Bus - Bus № 14 went on the route
+2021-07-21 09:10:14,047  INFO Bus - Bus № 14 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,045  INFO Bus - Bus № 12 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,047  INFO Bus - Bus № 23 went on the route
+2021-07-21 09:10:14,047  INFO Bus - Bus № 22 went on the route
+2021-07-21 09:10:14,047  INFO Bus - Bus № 21 went on the route
+2021-07-21 09:10:14,046  INFO Bus - Bus № 20 went on the route
+2021-07-21 09:10:14,048  INFO Bus - Bus № 20 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,046  INFO Bus - Bus № 15 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,046  INFO Bus - Bus № 19 went on the route
+2021-07-21 09:10:14,049  INFO Bus - Bus № 19 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,046  INFO Bus - Bus № 18 went on the route
+2021-07-21 09:10:14,056  INFO Bus - Bus № 18 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,046  INFO Bus - Bus № 16 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,046  INFO Bus - Bus № 17 went on the route
+2021-07-21 09:10:14,056  INFO Bus - Bus № 40 went on the route
+2021-07-21 09:10:14,056  INFO Bus - Bus № 39 went on the route
+2021-07-21 09:10:14,056  INFO Bus - Bus № 35 went on the route
+2021-07-21 09:10:14,056  INFO Bus - Bus № 34 went on the route
+2021-07-21 09:10:14,056  INFO Bus - Bus № 36 went on the route
+2021-07-21 09:10:14,056  INFO Bus - Bus № 37 went on the route
+2021-07-21 09:10:14,056  INFO Bus - Bus № 38 went on the route
+2021-07-21 09:10:14,056  INFO Bus - Bus № 41 went on the route
+2021-07-21 09:10:14,056  INFO Bus - Bus № 42 went on the route
+2021-07-21 09:10:14,056  INFO Bus - Bus № 44 went on the route
+2021-07-21 09:10:14,056  INFO Bus - Bus № 43 went on the route
+2021-07-21 09:10:14,056  INFO Bus - Bus № 45 went on the route
+2021-07-21 09:10:14,056  INFO Bus - Bus № 46 went on the route
+2021-07-21 09:10:14,056  INFO Bus - Bus № 47 went on the route
+2021-07-21 09:10:14,056  INFO Bus - Bus № 48 went on the route
+2021-07-21 09:10:14,056  INFO Bus - Bus № 49 went on the route
+2021-07-21 09:10:14,055  INFO Bus - Bus № 33 went on the route
+2021-07-21 09:10:14,055  INFO Bus - Bus № 50 went on the route
+2021-07-21 09:10:14,055  INFO Bus - Bus № 51 went on the route
+2021-07-21 09:10:14,049  INFO Bus - Bus № 32 went on the route
+2021-07-21 09:10:14,049  INFO Bus - Bus № 31 went on the route
+2021-07-21 09:10:14,049  INFO Bus - Bus № 28 went on the route
+2021-07-21 09:10:14,049  INFO Bus - Bus № 30 went on the route
+2021-07-21 09:10:14,049  INFO Bus - Bus № 29 went on the route
+2021-07-21 09:10:14,048  INFO Bus - Bus № 27 went on the route
+2021-07-21 09:10:14,048  INFO Bus - Bus № 26 went on the route
+2021-07-21 09:10:14,048  INFO Bus - Bus № 21 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,048  INFO Bus - Bus № 22 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,048  INFO Bus - Bus № 25 went on the route
+2021-07-21 09:10:14,047  INFO Bus - Bus № 23 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,047  INFO Bus - Bus № 24 went on the route
+2021-07-21 09:10:14,067  INFO Bus - Bus № 4 left the stop cinema Mir
+2021-07-21 09:10:14,067  INFO Bus - Bus № 1 left the stop cinema Mir
+2021-07-21 09:10:14,066  INFO Bus - Bus № 25 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,065  INFO Bus - Bus № 26 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,065  INFO Bus - Bus № 27 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,064  INFO Bus - Bus № 29 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,064  INFO Bus - Bus № 30 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,064  INFO Bus - Bus № 28 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,063  INFO Bus - Bus № 31 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,063  INFO Bus - Bus № 32 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,062  INFO Bus - Bus № 51 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,062  INFO Bus - Bus № 50 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,062  INFO Bus - Bus № 33 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,061  INFO Bus - Bus № 49 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,061  INFO Bus - Bus № 48 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,061  INFO Bus - Bus № 47 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,060  INFO Bus - Bus № 46 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,060  INFO Bus - Bus № 45 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,060  INFO Bus - Bus № 43 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,060  INFO Bus - Bus № 44 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,059  INFO Bus - Bus № 42 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,059  INFO Bus - Bus № 41 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,058  INFO Bus - Bus № 38 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,058  INFO Bus - Bus № 37 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,058  INFO Bus - Bus № 36 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,058  INFO Bus - Bus № 34 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,057  INFO Bus - Bus № 35 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,057  INFO Bus - Bus № 39 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,057  INFO Bus - Bus № 40 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,057  INFO Bus - Bus № 17 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,067  INFO Bus - Bus № 1 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,067  INFO Bus - Bus № 4 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,067  INFO Bus - Bus № 2 left the stop cinema Mir
+2021-07-21 09:10:14,077  INFO Bus - Bus № 2 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,067  INFO Bus - Bus № 3 left the stop cinema Mir
+2021-07-21 09:10:14,078  INFO Bus - Bus № 3 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,067  INFO Bus - Bus № 6 left the stop cinema Mir
+2021-07-21 09:10:14,067  INFO Bus - Bus № 24 drove up to the cinema Mir bus stop 
+2021-07-21 09:10:14,079  INFO Bus - Bus № 6 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,082  INFO Bus - Bus № 19 left the stop cinema Mir
+2021-07-21 09:10:14,082  INFO Bus - Bus № 12 left the stop cinema Mir
+2021-07-21 09:10:14,082  INFO Bus - Bus № 20 left the stop cinema Mir
+2021-07-21 09:10:14,083  INFO Bus - Bus № 9 left the stop cinema Mir
+2021-07-21 09:10:14,082  INFO Bus - Bus № 15 left the stop cinema Mir
+2021-07-21 09:10:14,083  INFO Bus - Bus № 8 left the stop cinema Mir
+2021-07-21 09:10:14,084  INFO Bus - Bus № 8 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,084  INFO Bus - Bus № 15 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,083  INFO Bus - Bus № 20 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,082  INFO Bus - Bus № 10 left the stop cinema Mir
+2021-07-21 09:10:14,085  INFO Bus - Bus № 10 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,082  INFO Bus - Bus № 12 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,082  INFO Bus - Bus № 11 left the stop cinema Mir
+2021-07-21 09:10:14,086  INFO Bus - Bus № 11 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,082  INFO Bus - Bus № 13 left the stop cinema Mir
+2021-07-21 09:10:14,082  INFO Bus - Bus № 14 left the stop cinema Mir
+2021-07-21 09:10:14,082  INFO Bus - Bus № 19 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,087  INFO Bus - Bus № 14 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,087  INFO Bus - Bus № 13 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,091  INFO Bus - Bus № 9 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,091  INFO Bus - Bus № 7 left the stop cinema Mir
+2021-07-21 09:10:14,092  INFO Bus - Bus № 7 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,092  INFO Bus - Bus № 5 left the stop cinema Mir
+2021-07-21 09:10:14,092  INFO Bus - Bus № 5 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,097  INFO Bus - Bus № 22 left the stop cinema Mir
+2021-07-21 09:10:14,098  INFO Bus - Bus № 22 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,099  INFO Bus - Bus № 23 left the stop cinema Mir
+2021-07-21 09:10:14,099  INFO Bus - Bus № 23 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,099  INFO Bus - Bus № 21 left the stop cinema Mir
+2021-07-21 09:10:14,100  INFO Bus - Bus № 21 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,102  INFO Bus - Bus № 16 left the stop cinema Mir
+2021-07-21 09:10:14,102  INFO Bus - Bus № 18 left the stop cinema Mir
+2021-07-21 09:10:14,104  INFO Bus - Bus № 18 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,104  INFO Bus - Bus № 16 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,113  INFO Bus - Bus № 6 left the stop Gikalo street
+2021-07-21 09:10:14,113  INFO Bus - Bus № 6 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,114  INFO Bus - Bus № 24 left the stop cinema Mir
+2021-07-21 09:10:14,114  INFO Bus - Bus № 24 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,114  INFO Bus - Bus № 3 left the stop Gikalo street
+2021-07-21 09:10:14,114  INFO Bus - Bus № 3 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,118  INFO Bus - Bus № 2 left the stop Gikalo street
+2021-07-21 09:10:14,119  INFO Bus - Bus № 2 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,119  INFO Bus - Bus № 4 left the stop Gikalo street
+2021-07-21 09:10:14,119  INFO Bus - Bus № 4 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,120  INFO Bus - Bus № 1 left the stop Gikalo street
+2021-07-21 09:10:14,120  INFO Bus - Bus № 36 left the stop cinema Mir
+2021-07-21 09:10:14,120  INFO Bus - Bus № 38 left the stop cinema Mir
+2021-07-21 09:10:14,120  INFO Bus - Bus № 38 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,120  INFO Bus - Bus № 37 left the stop cinema Mir
+2021-07-21 09:10:14,121  INFO Bus - Bus № 37 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,120  INFO Bus - Bus № 1 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,120  INFO Bus - Bus № 34 left the stop cinema Mir
+2021-07-21 09:10:14,121  INFO Bus - Bus № 34 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,120  INFO Bus - Bus № 35 left the stop cinema Mir
+2021-07-21 09:10:14,122  INFO Bus - Bus № 36 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,122  INFO Bus - Bus № 45 left the stop cinema Mir
+2021-07-21 09:10:14,122  INFO Bus - Bus № 49 left the stop cinema Mir
+2021-07-21 09:10:14,123  INFO Bus - Bus № 49 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,120  INFO Bus - Bus № 39 left the stop cinema Mir
+2021-07-21 09:10:14,123  INFO Bus - Bus № 39 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,120  INFO Bus - Bus № 40 left the stop cinema Mir
+2021-07-21 09:10:14,124  INFO Bus - Bus № 40 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,120  INFO Bus - Bus № 17 left the stop cinema Mir
+2021-07-21 09:10:14,124  INFO Bus - Bus № 17 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,122  INFO Bus - Bus № 51 left the stop cinema Mir
+2021-07-21 09:10:14,124  INFO Bus - Bus № 51 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,122  INFO Bus - Bus № 50 left the stop cinema Mir
+2021-07-21 09:10:14,125  INFO Bus - Bus № 50 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,122  INFO Bus - Bus № 33 left the stop cinema Mir
+2021-07-21 09:10:14,125  INFO Bus - Bus № 33 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,122  INFO Bus - Bus № 45 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,122  INFO Bus - Bus № 48 left the stop cinema Mir
+2021-07-21 09:10:14,126  INFO Bus - Bus № 48 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,122  INFO Bus - Bus № 47 left the stop cinema Mir
+2021-07-21 09:10:14,122  INFO Bus - Bus № 46 left the stop cinema Mir
+2021-07-21 09:10:14,122  INFO Bus - Bus № 43 left the stop cinema Mir
+2021-07-21 09:10:14,122  INFO Bus - Bus № 44 left the stop cinema Mir
+2021-07-21 09:10:14,122  INFO Bus - Bus № 42 left the stop cinema Mir
+2021-07-21 09:10:14,128  INFO Bus - Bus № 42 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,122  INFO Bus - Bus № 41 left the stop cinema Mir
+2021-07-21 09:10:14,122  INFO Bus - Bus № 35 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,128  INFO Bus - Bus № 41 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,127  INFO Bus - Bus № 44 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,127  INFO Bus - Bus № 43 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,127  INFO Bus - Bus № 46 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,129  INFO Bus - Bus № 5 left the stop Gikalo street
+2021-07-21 09:10:14,127  INFO Bus - Bus № 29 left the stop cinema Mir
+2021-07-21 09:10:14,127  INFO Bus - Bus № 27 left the stop cinema Mir
+2021-07-21 09:10:14,127  INFO Bus - Bus № 26 left the stop cinema Mir
+2021-07-21 09:10:14,127  INFO Bus - Bus № 47 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,127  INFO Bus - Bus № 25 left the stop cinema Mir
+2021-07-21 09:10:14,127  INFO Bus - Bus № 30 left the stop cinema Mir
+2021-07-21 09:10:14,127  INFO Bus - Bus № 28 left the stop cinema Mir
+2021-07-21 09:10:14,127  INFO Bus - Bus № 31 left the stop cinema Mir
+2021-07-21 09:10:14,127  INFO Bus - Bus № 32 left the stop cinema Mir
+2021-07-21 09:10:14,131  INFO Bus - Bus № 31 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,131  INFO Bus - Bus № 28 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,131  INFO Bus - Bus № 30 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,131  INFO Bus - Bus № 25 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,130  INFO Bus - Bus № 26 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,130  INFO Bus - Bus № 27 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,130  INFO Bus - Bus № 29 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,132  INFO Bus - Bus № 32 drove up to the Gikalo street bus stop 
+2021-07-21 09:10:14,133  INFO Bus - Bus № 5 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,134  INFO Bus - Bus № 7 left the stop Gikalo street
+2021-07-21 09:10:14,134  INFO Bus - Bus № 7 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,134  INFO Bus - Bus № 9 left the stop Gikalo street
+2021-07-21 09:10:14,134  INFO Bus - Bus № 9 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,135  INFO Bus - Bus № 13 left the stop Gikalo street
+2021-07-21 09:10:14,135  INFO Bus - Bus № 13 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,135  INFO Bus - Bus № 14 left the stop Gikalo street
+2021-07-21 09:10:14,135  INFO Bus - Bus № 14 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,136  INFO Bus - Bus № 11 left the stop Gikalo street
+2021-07-21 09:10:14,136  INFO Bus - Bus № 11 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,136  INFO Bus - Bus № 19 left the stop Gikalo street
+2021-07-21 09:10:14,137  INFO Bus - Bus № 19 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,137  INFO Bus - Bus № 12 left the stop Gikalo street
+2021-07-21 09:10:14,137  INFO Bus - Bus № 12 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,137  INFO Bus - Bus № 20 left the stop Gikalo street
+2021-07-21 09:10:14,138  INFO Bus - Bus № 20 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,138  INFO Bus - Bus № 10 left the stop Gikalo street
+2021-07-21 09:10:14,138  INFO Bus - Bus № 10 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,139  INFO Bus - Bus № 8 left the stop Gikalo street
+2021-07-21 09:10:14,139  INFO Bus - Bus № 8 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,139  INFO Bus - Bus № 15 left the stop Gikalo street
+2021-07-21 09:10:14,139  INFO Bus - Bus № 15 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,143  INFO Bus - Bus № 16 left the stop Gikalo street
+2021-07-21 09:10:14,143  INFO Bus - Bus № 22 left the stop Gikalo street
+2021-07-21 09:10:14,143  INFO Bus - Bus № 22 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,143  INFO Bus - Bus № 23 left the stop Gikalo street
+2021-07-21 09:10:14,143  INFO Bus - Bus № 21 left the stop Gikalo street
+2021-07-21 09:10:14,143  INFO Bus - Bus № 18 left the stop Gikalo street
+2021-07-21 09:10:14,144  INFO Bus - Bus № 18 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,144  INFO Bus - Bus № 21 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,144  INFO Bus - Bus № 23 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,143  INFO Bus - Bus № 16 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,159  INFO Bus - Bus № 42 left the stop Gikalo street
+2021-07-21 09:10:14,159  INFO Bus - Bus № 6 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,160  INFO Bus - Bus № 6 returned to the depot
+2021-07-21 09:10:14,159  INFO Bus - Bus № 3 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,160  INFO Bus - Bus № 3 returned to the depot
+2021-07-21 09:10:14,159  INFO Bus - Bus № 2 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,159  INFO Bus - Bus № 4 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,162  INFO Bus - Bus № 4 returned to the depot
+2021-07-21 09:10:14,159  INFO Bus - Bus № 38 left the stop Gikalo street
+2021-07-21 09:10:14,159  INFO Bus - Bus № 37 left the stop Gikalo street
+2021-07-21 09:10:14,163  INFO Bus - Bus № 37 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,159  INFO Bus - Bus № 1 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,159  INFO Bus - Bus № 34 left the stop Gikalo street
+2021-07-21 09:10:14,164  INFO Bus - Bus № 34 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,159  INFO Bus - Bus № 36 left the stop Gikalo street
+2021-07-21 09:10:14,159  INFO Bus - Bus № 49 left the stop Gikalo street
+2021-07-21 09:10:14,159  INFO Bus - Bus № 39 left the stop Gikalo street
+2021-07-21 09:10:14,164  INFO Bus - Bus № 39 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,159  INFO Bus - Bus № 40 left the stop Gikalo street
+2021-07-21 09:10:14,159  INFO Bus - Bus № 17 left the stop Gikalo street
+2021-07-21 09:10:14,165  INFO Bus - Bus № 17 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,159  INFO Bus - Bus № 51 left the stop Gikalo street
+2021-07-21 09:10:14,159  INFO Bus - Bus № 50 left the stop Gikalo street
+2021-07-21 09:10:14,159  INFO Bus - Bus № 33 left the stop Gikalo street
+2021-07-21 09:10:14,159  INFO Bus - Bus № 45 left the stop Gikalo street
+2021-07-21 09:10:14,159  INFO Bus - Bus № 48 left the stop Gikalo street
+2021-07-21 09:10:14,159  INFO Bus - Bus № 35 left the stop Gikalo street
+2021-07-21 09:10:14,166  INFO Bus - Bus № 48 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,166  INFO Bus - Bus № 45 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,166  INFO Bus - Bus № 33 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,166  INFO Bus - Bus № 50 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,166  INFO Bus - Bus № 51 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,165  INFO Bus - Bus № 40 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,164  INFO Bus - Bus № 49 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,164  INFO Bus - Bus № 36 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,163  INFO Bus - Bus № 1 returned to the depot
+2021-07-21 09:10:14,163  INFO Bus - Bus № 38 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,162  INFO Bus - Bus № 2 returned to the depot
+2021-07-21 09:10:14,159  INFO Bus - Bus № 24 left the stop Gikalo street
+2021-07-21 09:10:14,160  INFO Bus - Bus № 42 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,169  INFO Bus - Bus № 24 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,167  INFO Bus - Bus № 35 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,174  INFO Bus - Bus № 18 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,174  INFO Bus - Bus № 5 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,174  INFO Bus - Bus № 7 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,174  INFO Bus - Bus № 9 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,174  INFO Bus - Bus № 13 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,175  INFO Bus - Bus № 13 returned to the depot
+2021-07-21 09:10:14,174  INFO Bus - Bus № 14 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,176  INFO Bus - Bus № 14 returned to the depot
+2021-07-21 09:10:14,174  INFO Bus - Bus № 11 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,174  INFO Bus - Bus № 12 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,177  INFO Bus - Bus № 12 returned to the depot
+2021-07-21 09:10:14,174  INFO Bus - Bus № 19 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,174  INFO Bus - Bus № 20 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,174  INFO Bus - Bus № 8 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,174  INFO Bus - Bus № 10 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,174  INFO Bus - Bus № 15 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,179  INFO Bus - Bus № 15 returned to the depot
+2021-07-21 09:10:14,174  INFO Bus - Bus № 22 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,180  INFO Bus - Bus № 22 returned to the depot
+2021-07-21 09:10:14,178  INFO Bus - Bus № 10 returned to the depot
+2021-07-21 09:10:14,178  INFO Bus - Bus № 8 returned to the depot
+2021-07-21 09:10:14,178  INFO Bus - Bus № 20 returned to the depot
+2021-07-21 09:10:14,178  INFO Bus - Bus № 19 returned to the depot
+2021-07-21 09:10:14,177  INFO Bus - Bus № 11 returned to the depot
+2021-07-21 09:10:14,175  INFO Bus - Bus № 41 left the stop Gikalo street
+2021-07-21 09:10:14,175  INFO Bus - Bus № 9 returned to the depot
+2021-07-21 09:10:14,175  INFO Bus - Bus № 44 left the stop Gikalo street
+2021-07-21 09:10:14,175  INFO Bus - Bus № 43 left the stop Gikalo street
+2021-07-21 09:10:14,183  INFO Bus - Bus № 43 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,175  INFO Bus - Bus № 46 left the stop Gikalo street
+2021-07-21 09:10:14,184  INFO Bus - Bus № 46 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,175  INFO Bus - Bus № 7 returned to the depot
+2021-07-21 09:10:14,175  INFO Bus - Bus № 47 left the stop Gikalo street
+2021-07-21 09:10:14,185  INFO Bus - Bus № 47 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,175  INFO Bus - Bus № 31 left the stop Gikalo street
+2021-07-21 09:10:14,187  INFO Bus - Bus № 31 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,175  INFO Bus - Bus № 28 left the stop Gikalo street
+2021-07-21 09:10:14,188  INFO Bus - Bus № 28 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,175  INFO Bus - Bus № 30 left the stop Gikalo street
+2021-07-21 09:10:14,190  INFO Bus - Bus № 30 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,174  INFO Bus - Bus № 25 left the stop Gikalo street
+2021-07-21 09:10:14,191  INFO Bus - Bus № 25 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,174  INFO Bus - Bus № 5 returned to the depot
+2021-07-21 09:10:14,174  INFO Bus - Bus № 26 left the stop Gikalo street
+2021-07-21 09:10:14,193  INFO Bus - Bus № 26 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,174  INFO Bus - Bus № 27 left the stop Gikalo street
+2021-07-21 09:10:14,194  INFO Bus - Bus № 27 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,174  INFO Bus - Bus № 29 left the stop Gikalo street
+2021-07-21 09:10:14,195  INFO Bus - Bus № 29 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,174  INFO Bus - Bus № 32 left the stop Gikalo street
+2021-07-21 09:10:14,195  INFO Bus - Bus № 32 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,174  INFO Bus - Bus № 18 returned to the depot
+2021-07-21 09:10:14,183  INFO Bus - Bus № 44 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,182  INFO Bus - Bus № 41 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:10:14,196  INFO Bus - Bus № 16 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,196  INFO Bus - Bus № 16 returned to the depot
+2021-07-21 09:10:14,197  INFO Bus - Bus № 23 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,197  INFO Bus - Bus № 23 returned to the depot
+2021-07-21 09:10:14,197  INFO Bus - Bus № 21 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,197  INFO Bus - Bus № 21 returned to the depot
+2021-07-21 09:10:14,205  INFO Bus - Bus № 35 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,205  INFO Bus - Bus № 35 returned to the depot
+2021-07-21 09:10:14,206  INFO Bus - Bus № 24 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,206  INFO Bus - Bus № 24 returned to the depot
+2021-07-21 09:10:14,207  INFO Bus - Bus № 42 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,207  INFO Bus - Bus № 42 returned to the depot
+2021-07-21 09:10:14,207  INFO Bus - Bus № 38 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,208  INFO Bus - Bus № 38 returned to the depot
+2021-07-21 09:10:14,208  INFO Bus - Bus № 36 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,208  INFO Bus - Bus № 36 returned to the depot
+2021-07-21 09:10:14,209  INFO Bus - Bus № 49 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,210  INFO Bus - Bus № 48 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,210  INFO Bus - Bus № 48 returned to the depot
+2021-07-21 09:10:14,210  INFO Bus - Bus № 45 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,211  INFO Bus - Bus № 45 returned to the depot
+2021-07-21 09:10:14,210  INFO Bus - Bus № 33 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,212  INFO Bus - Bus № 33 returned to the depot
+2021-07-21 09:10:14,210  INFO Bus - Bus № 50 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,217  INFO Bus - Bus № 50 returned to the depot
+2021-07-21 09:10:14,210  INFO Bus - Bus № 51 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,222  INFO Bus - Bus № 51 returned to the depot
+2021-07-21 09:10:14,227  INFO Bus - Bus № 28 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,237  INFO Bus - Bus № 28 returned to the depot
+2021-07-21 09:10:14,245  INFO Bus - Bus № 31 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,209  INFO Bus - Bus № 40 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,245  INFO Bus - Bus № 43 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,245  INFO Bus - Bus № 46 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,246  INFO Bus - Bus № 46 returned to the depot
+2021-07-21 09:10:14,245  INFO Bus - Bus № 47 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,246  INFO Bus - Bus № 47 returned to the depot
+2021-07-21 09:10:14,210  INFO Bus - Bus № 37 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,210  INFO Bus - Bus № 34 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,210  INFO Bus - Bus № 17 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,247  INFO Bus - Bus № 17 returned to the depot
+2021-07-21 09:10:14,210  INFO Bus - Bus № 39 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,250  INFO Bus - Bus № 39 returned to the depot
+2021-07-21 09:10:14,210  INFO Bus - Bus № 49 returned to the depot
+2021-07-21 09:10:14,247  INFO Bus - Bus № 34 returned to the depot
+2021-07-21 09:10:14,247  INFO Bus - Bus № 25 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,247  INFO Bus - Bus № 30 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,247  INFO Bus - Bus № 26 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,247  INFO Bus - Bus № 27 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,247  INFO Bus - Bus № 29 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,260  INFO Bus - Bus № 29 returned to the depot
+2021-07-21 09:10:14,247  INFO Bus - Bus № 37 returned to the depot
+2021-07-21 09:10:14,247  INFO Bus - Bus № 32 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,261  INFO Bus - Bus № 32 returned to the depot
+2021-07-21 09:10:14,247  INFO Bus - Bus № 44 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,261  INFO Bus - Bus № 44 returned to the depot
+2021-07-21 09:10:14,247  INFO Bus - Bus № 41 left the stop Yakub Kolas Square
+2021-07-21 09:10:14,261  INFO Bus - Bus № 41 returned to the depot
+2021-07-21 09:10:14,247  INFO Bus - Bus № 31 returned to the depot
+2021-07-21 09:10:14,246  INFO Bus - Bus № 43 returned to the depot
+2021-07-21 09:10:14,245  INFO Bus - Bus № 40 returned to the depot
+2021-07-21 09:10:14,260  INFO Bus - Bus № 27 returned to the depot
+2021-07-21 09:10:14,260  INFO Bus - Bus № 26 returned to the depot
+2021-07-21 09:10:14,259  INFO Bus - Bus № 30 returned to the depot
+2021-07-21 09:10:14,259  INFO Bus - Bus № 25 returned to the depot
+2021-07-21 09:10:14,265  INFO BusDepot - ----------------------------The day has finish-----------------------------
+2021-07-21 09:12:14,046  INFO BusDepot - ----------------------------The day has begun-----------------------------
+2021-07-21 09:12:14,055  INFO BusDepot - Route {busStops [winners square, Yakub Kolas Square, Krasnozvezdnaya street, Kamarovsky market, Gorky Park]}
+2021-07-21 09:12:14,065  INFO Bus - Bus № 1 went on the route
+2021-07-21 09:12:14,067  INFO Bus - Bus № 1 drove up to the winners square bus stop 
+2021-07-21 09:12:14,068  INFO Bus - Bus № 2 went on the route
+2021-07-21 09:12:14,073  INFO Bus - Bus № 2 drove up to the winners square bus stop 
+2021-07-21 09:12:14,082  INFO Bus - Bus № 3 went on the route
+2021-07-21 09:12:14,082  INFO Bus - Bus № 4 went on the route
+2021-07-21 09:12:14,083  INFO Bus - Bus № 5 went on the route
+2021-07-21 09:12:14,082  INFO Bus - Bus № 3 drove up to the winners square bus stop 
+2021-07-21 09:12:14,083  INFO Bus - Bus № 7 went on the route
+2021-07-21 09:12:14,083  INFO Bus - Bus № 5 drove up to the winners square bus stop 
+2021-07-21 09:12:14,083  INFO Bus - Bus № 6 went on the route
+2021-07-21 09:12:14,083  INFO Bus - Bus № 4 drove up to the winners square bus stop 
+2021-07-21 09:12:14,083  INFO Bus - Bus № 8 went on the route
+2021-07-21 09:12:14,089  INFO Bus - Bus № 9 went on the route
+2021-07-21 09:12:14,089  INFO Bus - Bus № 10 went on the route
+2021-07-21 09:12:14,091  INFO Bus - Bus № 11 went on the route
+2021-07-21 09:12:14,091  INFO Bus - Bus № 13 went on the route
+2021-07-21 09:12:14,091  INFO Bus - Bus № 12 went on the route
+2021-07-21 09:12:14,093  INFO Bus - Bus № 14 went on the route
+2021-07-21 09:12:14,095  INFO Bus - Bus № 15 went on the route
+2021-07-21 09:12:14,097  INFO Bus - Bus № 16 went on the route
+2021-07-21 09:12:14,097  INFO Bus - Bus № 17 went on the route
+2021-07-21 09:12:14,098  INFO Bus - Bus № 18 went on the route
+2021-07-21 09:12:14,099  INFO Bus - Bus № 19 went on the route
+2021-07-21 09:12:14,100  INFO Bus - Bus № 20 went on the route
+2021-07-21 09:12:14,101  INFO Bus - Bus № 21 went on the route
+2021-07-21 09:12:14,102  INFO Bus - Bus № 22 went on the route
+2021-07-21 09:12:14,105  INFO Bus - Bus № 23 went on the route
+2021-07-21 09:12:14,106  INFO Bus - Bus № 24 went on the route
+2021-07-21 09:12:14,107  INFO Bus - Bus № 25 went on the route
+2021-07-21 09:12:14,107  INFO Bus - Bus № 28 went on the route
+2021-07-21 09:12:14,107  INFO Bus - Bus № 27 went on the route
+2021-07-21 09:12:14,107  INFO Bus - Bus № 26 went on the route
+2021-07-21 09:12:14,109  INFO Bus - Bus № 30 went on the route
+2021-07-21 09:12:14,108  INFO Bus - Bus № 29 went on the route
+2021-07-21 09:12:14,109  INFO Bus - Bus № 32 went on the route
+2021-07-21 09:12:14,109  INFO Bus - Bus № 31 went on the route
+2021-07-21 09:12:14,120  INFO Bus - Bus № 34 went on the route
+2021-07-21 09:12:14,120  INFO Bus - Bus № 35 went on the route
+2021-07-21 09:12:14,120  INFO Bus - Bus № 36 went on the route
+2021-07-21 09:12:14,119  INFO Bus - Bus № 37 went on the route
+2021-07-21 09:12:14,119  INFO Bus - Bus № 38 went on the route
+2021-07-21 09:12:14,119  INFO Bus - Bus № 40 went on the route
+2021-07-21 09:12:14,119  INFO Bus - Bus № 39 went on the route
+2021-07-21 09:12:14,119  INFO Bus - Bus № 41 went on the route
+2021-07-21 09:12:14,119  INFO Bus - Bus № 42 went on the route
+2021-07-21 09:12:14,119  INFO Bus - Bus № 49 went on the route
+2021-07-21 09:12:14,119  INFO Bus - Bus № 47 went on the route
+2021-07-21 09:12:14,119  INFO Bus - Bus № 43 went on the route
+2021-07-21 09:12:14,119  INFO Bus - Bus № 46 went on the route
+2021-07-21 09:12:14,119  INFO Bus - Bus № 44 went on the route
+2021-07-21 09:12:14,119  INFO Bus - Bus № 45 went on the route
+2021-07-21 09:12:14,119  INFO Bus - Bus № 48 went on the route
+2021-07-21 09:12:14,119  INFO Bus - Bus № 50 went on the route
+2021-07-21 09:12:14,119  INFO Bus - Bus № 51 went on the route
+2021-07-21 09:12:14,119  INFO Bus - Bus № 52 went on the route
+2021-07-21 09:12:14,119  INFO Bus - Bus № 53 went on the route
+2021-07-21 09:12:14,119  INFO Bus - Bus № 55 went on the route
+2021-07-21 09:12:14,119  INFO Bus - Bus № 54 went on the route
+2021-07-21 09:12:14,119  INFO Bus - Bus № 4 left the stop winners square
+2021-07-21 09:12:14,119  INFO Bus - Bus № 5 left the stop winners square
+2021-07-21 09:12:14,119  INFO Bus - Bus № 3 left the stop winners square
+2021-07-21 09:12:14,119  INFO Bus - Bus № 1 left the stop winners square
+2021-07-21 09:12:14,118  INFO Bus - Bus № 2 left the stop winners square
+2021-07-21 09:12:14,118  INFO Bus - Bus № 33 went on the route
+2021-07-21 09:12:14,134  INFO Bus - Bus № 2 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:14,134  INFO Bus - Bus № 1 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:14,133  INFO Bus - Bus № 3 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:14,131  INFO Bus - Bus № 5 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:14,131  INFO Bus - Bus № 4 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:14,180  INFO Bus - Bus № 5 left the stop Yakub Kolas Square
+2021-07-21 09:12:14,180  INFO Bus - Bus № 3 left the stop Yakub Kolas Square
+2021-07-21 09:12:14,181  INFO Bus - Bus № 3 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:14,180  INFO Bus - Bus № 4 left the stop Yakub Kolas Square
+2021-07-21 09:12:14,184  INFO Bus - Bus № 4 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:14,181  INFO Bus - Bus № 7 drove up to the winners square bus stop 
+2021-07-21 09:12:14,184  INFO Bus - Bus № 1 left the stop Yakub Kolas Square
+2021-07-21 09:12:14,185  INFO Bus - Bus № 6 drove up to the winners square bus stop 
+2021-07-21 09:12:14,185  INFO Bus - Bus № 2 left the stop Yakub Kolas Square
+2021-07-21 09:12:14,186  INFO Bus - Bus № 8 drove up to the winners square bus stop 
+2021-07-21 09:12:14,231  INFO Bus - Bus № 6 left the stop winners square
+2021-07-21 09:12:14,232  INFO Bus - Bus № 9 drove up to the winners square bus stop 
+2021-07-21 09:12:14,232  INFO Bus - Bus № 8 left the stop winners square
+2021-07-21 09:12:14,233  INFO Bus - Bus № 3 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:14,233  INFO Bus - Bus № 3 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:14,233  INFO Bus - Bus № 4 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:14,234  INFO Bus - Bus № 4 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:14,233  INFO Bus - Bus № 7 left the stop winners square
+2021-07-21 09:12:14,233  INFO Bus - Bus № 10 drove up to the winners square bus stop 
+2021-07-21 09:12:14,234  INFO Bus - Bus № 7 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:14,275  INFO Bus - Bus № 10 left the stop winners square
+2021-07-21 09:12:14,275  INFO Bus - Bus № 11 drove up to the winners square bus stop 
+2021-07-21 09:12:14,276  INFO Bus - Bus № 4 left the stop Kamarovsky market
+2021-07-21 09:12:14,276  INFO Bus - Bus № 7 left the stop Yakub Kolas Square
+2021-07-21 09:12:14,277  INFO Bus - Bus № 7 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:14,279  INFO Bus - Bus № 4 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:14,280  INFO Bus - Bus № 3 left the stop Kamarovsky market
+2021-07-21 09:12:14,281  INFO Bus - Bus № 13 drove up to the winners square bus stop 
+2021-07-21 09:12:14,282  INFO Bus - Bus № 9 left the stop winners square
+2021-07-21 09:12:14,282  INFO Bus - Bus № 12 drove up to the winners square bus stop 
+2021-07-21 09:12:14,308  INFO Bus - Bus № 7 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:14,308  INFO Bus - Bus № 11 left the stop winners square
+2021-07-21 09:12:14,314  INFO Bus - Bus № 11 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:14,315  INFO Bus - Bus № 14 drove up to the winners square bus stop 
+2021-07-21 09:12:14,331  INFO Bus - Bus № 12 left the stop winners square
+2021-07-21 09:12:14,335  INFO Bus - Bus № 15 drove up to the winners square bus stop 
+2021-07-21 09:12:14,343  INFO Bus - Bus № 13 left the stop winners square
+2021-07-21 09:12:14,349  INFO Bus - Bus № 16 drove up to the winners square bus stop 
+2021-07-21 09:12:14,362  INFO Bus - Bus № 4 left the stop Gorky Park
+2021-07-21 09:12:14,365  INFO Bus - Bus № 17 drove up to the winners square bus stop 
+2021-07-21 09:12:14,366  INFO Bus - Bus № 4 returned to the depot
+2021-07-21 09:12:14,378  INFO Bus - Bus № 14 left the stop winners square
+2021-07-21 09:12:14,378  INFO Bus - Bus № 18 drove up to the winners square bus stop 
+2021-07-21 09:12:14,379  INFO Bus - Bus № 11 left the stop Yakub Kolas Square
+2021-07-21 09:12:14,379  INFO Bus - Bus № 19 drove up to the winners square bus stop 
+2021-07-21 09:12:14,388  INFO Bus - Bus № 15 left the stop winners square
+2021-07-21 09:12:14,389  INFO Bus - Bus № 20 drove up to the winners square bus stop 
+2021-07-21 09:12:14,402  INFO Bus - Bus № 16 left the stop winners square
+2021-07-21 09:12:14,403  INFO Bus - Bus № 21 drove up to the winners square bus stop 
+2021-07-21 09:12:14,406  INFO Bus - Bus № 17 left the stop winners square
+2021-07-21 09:12:14,409  INFO Bus - Bus № 22 drove up to the winners square bus stop 
+2021-07-21 09:12:14,419  INFO Bus - Bus № 19 left the stop winners square
+2021-07-21 09:12:14,420  INFO Bus - Bus № 23 drove up to the winners square bus stop 
+2021-07-21 09:12:14,420  INFO Bus - Bus № 18 left the stop winners square
+2021-07-21 09:12:14,422  INFO Bus - Bus № 24 drove up to the winners square bus stop 
+2021-07-21 09:12:14,435  INFO Bus - Bus № 21 left the stop winners square
+2021-07-21 09:12:14,436  INFO Bus - Bus № 21 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:14,435  INFO Bus - Bus № 20 left the stop winners square
+2021-07-21 09:12:14,436  INFO Bus - Bus № 20 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:14,451  INFO Bus - Bus № 23 left the stop winners square
+2021-07-21 09:12:14,451  INFO Bus - Bus № 22 left the stop winners square
+2021-07-21 09:12:14,451  INFO Bus - Bus № 23 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:14,451  INFO Bus - Bus № 22 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:14,467  INFO Bus - Bus № 20 left the stop Yakub Kolas Square
+2021-07-21 09:12:14,467  INFO Bus - Bus № 25 drove up to the winners square bus stop 
+2021-07-21 09:12:14,468  INFO Bus - Bus № 21 left the stop Yakub Kolas Square
+2021-07-21 09:12:14,468  INFO Bus - Bus № 28 drove up to the winners square bus stop 
+2021-07-21 09:12:14,473  INFO Bus - Bus № 24 left the stop winners square
+2021-07-21 09:12:14,473  INFO Bus - Bus № 27 drove up to the winners square bus stop 
+2021-07-21 09:12:14,483  INFO Bus - Bus № 23 left the stop Yakub Kolas Square
+2021-07-21 09:12:14,483  INFO Bus - Bus № 26 drove up to the winners square bus stop 
+2021-07-21 09:12:14,493  INFO Bus - Bus № 22 left the stop Yakub Kolas Square
+2021-07-21 09:12:14,494  INFO Bus - Bus № 30 drove up to the winners square bus stop 
+2021-07-21 09:12:14,507  INFO Bus - Bus № 28 left the stop winners square
+2021-07-21 09:12:14,507  INFO Bus - Bus № 29 drove up to the winners square bus stop 
+2021-07-21 09:12:14,508  INFO Bus - Bus № 25 left the stop winners square
+2021-07-21 09:12:14,508  INFO Bus - Bus № 32 drove up to the winners square bus stop 
+2021-07-21 09:12:14,516  INFO Bus - Bus № 26 left the stop winners square
+2021-07-21 09:12:14,522  INFO Bus - Bus № 26 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:14,522  INFO Bus - Bus № 27 left the stop winners square
+2021-07-21 09:12:14,523  INFO Bus - Bus № 27 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:14,530  INFO Bus - Bus № 30 left the stop winners square
+2021-07-21 09:12:14,534  INFO Bus - Bus № 31 drove up to the winners square bus stop 
+2021-07-21 09:12:14,546  INFO Bus - Bus № 32 left the stop winners square
+2021-07-21 09:12:14,546  INFO Bus - Bus № 34 drove up to the winners square bus stop 
+2021-07-21 09:12:14,547  INFO Bus - Bus № 29 left the stop winners square
+2021-07-21 09:12:14,547  INFO Bus - Bus № 35 drove up to the winners square bus stop 
+2021-07-21 09:12:14,561  INFO Bus - Bus № 26 left the stop Yakub Kolas Square
+2021-07-21 09:12:14,562  INFO Bus - Bus № 36 drove up to the winners square bus stop 
+2021-07-21 09:12:14,565  INFO Bus - Bus № 27 left the stop Yakub Kolas Square
+2021-07-21 09:12:14,566  INFO Bus - Bus № 37 drove up to the winners square bus stop 
+2021-07-21 09:12:14,578  INFO Bus - Bus № 31 left the stop winners square
+2021-07-21 09:12:14,579  INFO Bus - Bus № 38 drove up to the winners square bus stop 
+2021-07-21 09:12:14,592  INFO Bus - Bus № 35 left the stop winners square
+2021-07-21 09:12:14,594  INFO Bus - Bus № 40 drove up to the winners square bus stop 
+2021-07-21 09:12:14,594  INFO Bus - Bus № 34 left the stop winners square
+2021-07-21 09:12:14,597  INFO Bus - Bus № 39 drove up to the winners square bus stop 
+2021-07-21 09:12:14,607  INFO Bus - Bus № 37 left the stop winners square
+2021-07-21 09:12:14,607  INFO Bus - Bus № 41 drove up to the winners square bus stop 
+2021-07-21 09:12:14,608  INFO Bus - Bus № 36 left the stop winners square
+2021-07-21 09:12:14,608  INFO Bus - Bus № 42 drove up to the winners square bus stop 
+2021-07-21 09:12:14,625  INFO Bus - Bus № 38 left the stop winners square
+2021-07-21 09:12:14,625  INFO Bus - Bus № 49 drove up to the winners square bus stop 
+2021-07-21 09:12:14,639  INFO Bus - Bus № 42 left the stop winners square
+2021-07-21 09:12:14,639  INFO Bus - Bus № 47 drove up to the winners square bus stop 
+2021-07-21 09:12:14,640  INFO Bus - Bus № 41 left the stop winners square
+2021-07-21 09:12:14,640  INFO Bus - Bus № 41 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:14,640  INFO Bus - Bus № 40 left the stop winners square
+2021-07-21 09:12:14,640  INFO Bus - Bus № 39 left the stop winners square
+2021-07-21 09:12:14,641  INFO Bus - Bus № 40 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:14,641  INFO Bus - Bus № 39 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:14,670  INFO Bus - Bus № 47 left the stop winners square
+2021-07-21 09:12:14,671  INFO Bus - Bus № 47 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:14,671  INFO Bus - Bus № 49 left the stop winners square
+2021-07-21 09:12:14,671  INFO Bus - Bus № 43 drove up to the winners square bus stop 
+2021-07-21 09:12:14,685  INFO Bus - Bus № 39 left the stop Yakub Kolas Square
+2021-07-21 09:12:14,685  INFO Bus - Bus № 46 drove up to the winners square bus stop 
+2021-07-21 09:12:14,685  INFO Bus - Bus № 40 left the stop Yakub Kolas Square
+2021-07-21 09:12:14,686  INFO Bus - Bus № 44 drove up to the winners square bus stop 
+2021-07-21 09:12:14,689  INFO Bus - Bus № 41 left the stop Yakub Kolas Square
+2021-07-21 09:12:14,691  INFO Bus - Bus № 45 drove up to the winners square bus stop 
+2021-07-21 09:12:14,716  INFO Bus - Bus № 46 left the stop winners square
+2021-07-21 09:12:14,716  INFO Bus - Bus № 46 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:14,717  INFO Bus - Bus № 47 left the stop Yakub Kolas Square
+2021-07-21 09:12:14,717  INFO Bus - Bus № 47 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:14,717  INFO Bus - Bus № 43 left the stop winners square
+2021-07-21 09:12:14,717  INFO Bus - Bus № 43 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:14,734  INFO Bus - Bus № 45 left the stop winners square
+2021-07-21 09:12:14,734  INFO Bus - Bus № 48 drove up to the winners square bus stop 
+2021-07-21 09:12:14,735  INFO Bus - Bus № 44 left the stop winners square
+2021-07-21 09:12:14,735  INFO Bus - Bus № 50 drove up to the winners square bus stop 
+2021-07-21 09:12:14,765  INFO Bus - Bus № 43 left the stop Yakub Kolas Square
+2021-07-21 09:12:14,765  INFO Bus - Bus № 51 drove up to the winners square bus stop 
+2021-07-21 09:12:14,766  INFO Bus - Bus № 47 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:14,766  INFO Bus - Bus № 52 drove up to the winners square bus stop 
+2021-07-21 09:12:14,769  INFO Bus - Bus № 46 left the stop Yakub Kolas Square
+2021-07-21 09:12:14,769  INFO Bus - Bus № 46 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:14,778  INFO Bus - Bus № 50 left the stop winners square
+2021-07-21 09:12:14,778  INFO Bus - Bus № 48 left the stop winners square
+2021-07-21 09:12:14,779  INFO Bus - Bus № 53 drove up to the winners square bus stop 
+2021-07-21 09:12:14,779  INFO Bus - Bus № 48 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:14,809  INFO Bus - Bus № 53 left the stop winners square
+2021-07-21 09:12:14,810  INFO Bus - Bus № 51 left the stop winners square
+2021-07-21 09:12:14,810  INFO Bus - Bus № 46 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:14,810  INFO Bus - Bus № 52 left the stop winners square
+2021-07-21 09:12:14,810  INFO Bus - Bus № 46 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:14,810  INFO Bus - Bus № 54 drove up to the winners square bus stop 
+2021-07-21 09:12:14,810  INFO Bus - Bus № 55 drove up to the winners square bus stop 
+2021-07-21 09:12:14,810  INFO Bus - Bus № 52 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:14,825  INFO Bus - Bus № 48 left the stop Yakub Kolas Square
+2021-07-21 09:12:14,825  INFO Bus - Bus № 48 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:14,856  INFO Bus - Bus № 48 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:14,856  INFO Bus - Bus № 33 drove up to the winners square bus stop 
+2021-07-21 09:12:14,856  INFO Bus - Bus № 54 left the stop winners square
+2021-07-21 09:12:14,856  INFO Bus - Bus № 55 left the stop winners square
+2021-07-21 09:12:14,856  INFO Bus - Bus № 52 left the stop Yakub Kolas Square
+2021-07-21 09:12:14,857  INFO Bus - Bus № 55 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:14,857  INFO Bus - Bus № 54 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:14,856  INFO Bus - Bus № 46 left the stop Kamarovsky market
+2021-07-21 09:12:14,857  INFO Bus - Bus № 52 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:14,857  INFO Bus - Bus № 46 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:14,887  INFO Bus - Bus № 33 left the stop winners square
+2021-07-21 09:12:14,887  INFO Bus - Bus № 5 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:14,902  INFO Bus - Bus № 46 left the stop Gorky Park
+2021-07-21 09:12:14,902  INFO Bus - Bus № 54 left the stop Yakub Kolas Square
+2021-07-21 09:12:14,902  INFO Bus - Bus № 55 left the stop Yakub Kolas Square
+2021-07-21 09:12:14,902  INFO Bus - Bus № 52 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:14,903  INFO Bus - Bus № 55 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:14,902  INFO Bus - Bus № 54 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:14,902  INFO Bus - Bus № 46 returned to the depot
+2021-07-21 09:12:14,902  INFO Bus - Bus № 1 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:14,903  INFO Bus - Bus № 52 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:14,932  INFO Bus - Bus № 5 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:14,932  INFO Bus - Bus № 2 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:14,948  INFO Bus - Bus № 1 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:14,948  INFO Bus - Bus № 55 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:14,948  INFO Bus - Bus № 54 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:14,948  INFO Bus - Bus № 52 left the stop Kamarovsky market
+2021-07-21 09:12:14,949  INFO Bus - Bus № 54 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:14,949  INFO Bus - Bus № 55 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:14,948  INFO Bus - Bus № 6 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:14,949  INFO Bus - Bus № 52 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:14,964  INFO Bus - Bus № 2 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:14,964  INFO Bus - Bus № 2 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:14,980  INFO Bus - Bus № 54 left the stop Kamarovsky market
+2021-07-21 09:12:14,980  INFO Bus - Bus № 6 left the stop Yakub Kolas Square
+2021-07-21 09:12:14,980  INFO Bus - Bus № 55 left the stop Kamarovsky market
+2021-07-21 09:12:14,981  INFO Bus - Bus № 6 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:14,981  INFO Bus - Bus № 8 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:14,981  INFO Bus - Bus № 55 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:14,995  INFO Bus - Bus № 52 left the stop Gorky Park
+2021-07-21 09:12:14,995  INFO Bus - Bus № 52 returned to the depot
+2021-07-21 09:12:14,995  INFO Bus - Bus № 10 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,010  INFO Bus - Bus № 2 left the stop Kamarovsky market
+2021-07-21 09:12:15,010  INFO Bus - Bus № 2 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:15,026  INFO Bus - Bus № 10 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,026  INFO Bus - Bus № 6 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,026  INFO Bus - Bus № 8 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,026  INFO Bus - Bus № 55 left the stop Gorky Park
+2021-07-21 09:12:15,026  INFO Bus - Bus № 8 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,026  INFO Bus - Bus № 6 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,026  INFO Bus - Bus № 10 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,026  INFO Bus - Bus № 3 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:15,026  INFO Bus - Bus № 55 returned to the depot
+2021-07-21 09:12:15,042  INFO Bus - Bus № 2 left the stop Gorky Park
+2021-07-21 09:12:15,042  INFO Bus - Bus № 2 returned to the depot
+2021-07-21 09:12:15,042  INFO Bus - Bus № 9 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,058  INFO Bus - Bus № 10 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,058  INFO Bus - Bus № 3 left the stop Gorky Park
+2021-07-21 09:12:15,058  INFO Bus - Bus № 8 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,058  INFO Bus - Bus № 6 left the stop Kamarovsky market
+2021-07-21 09:12:15,058  INFO Bus - Bus № 8 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,058  INFO Bus - Bus № 12 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,058  INFO Bus - Bus № 3 returned to the depot
+2021-07-21 09:12:15,058  INFO Bus - Bus № 7 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,058  INFO Bus - Bus № 6 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:15,074  INFO Bus - Bus № 9 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,074  INFO Bus - Bus № 9 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,090  INFO Bus - Bus № 7 left the stop Kamarovsky market
+2021-07-21 09:12:15,090  INFO Bus - Bus № 8 left the stop Kamarovsky market
+2021-07-21 09:12:15,090  INFO Bus - Bus № 12 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,090  INFO Bus - Bus № 6 left the stop Gorky Park
+2021-07-21 09:12:15,090  INFO Bus - Bus № 12 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,090  INFO Bus - Bus № 13 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,090  INFO Bus - Bus № 8 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:15,091  INFO Bus - Bus № 14 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,090  INFO Bus - Bus № 6 returned to the depot
+2021-07-21 09:12:15,106  INFO Bus - Bus № 9 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,106  INFO Bus - Bus № 9 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,122  INFO Bus - Bus № 13 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,122  INFO Bus - Bus № 12 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,122  INFO Bus - Bus № 8 left the stop Gorky Park
+2021-07-21 09:12:15,123  INFO Bus - Bus № 8 returned to the depot
+2021-07-21 09:12:15,122  INFO Bus - Bus № 14 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,123  INFO Bus - Bus № 11 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,123  INFO Bus - Bus № 12 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,123  INFO Bus - Bus № 13 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,124  INFO Bus - Bus № 14 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,138  INFO Bus - Bus № 9 left the stop Kamarovsky market
+2021-07-21 09:12:15,138  INFO Bus - Bus № 9 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:15,169  INFO Bus - Bus № 9 left the stop Gorky Park
+2021-07-21 09:12:15,169  INFO Bus - Bus № 12 left the stop Kamarovsky market
+2021-07-21 09:12:15,169  INFO Bus - Bus № 13 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,169  INFO Bus - Bus № 14 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,169  INFO Bus - Bus № 12 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:15,169  INFO Bus - Bus № 9 returned to the depot
+2021-07-21 09:12:15,169  INFO Bus - Bus № 15 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,169  INFO Bus - Bus № 11 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,170  INFO Bus - Bus № 14 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,170  INFO Bus - Bus № 16 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,171  INFO Bus - Bus № 11 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,215  INFO Bus - Bus № 11 left the stop Kamarovsky market
+2021-07-21 09:12:15,215  INFO Bus - Bus № 15 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,215  INFO Bus - Bus № 12 left the stop Gorky Park
+2021-07-21 09:12:15,215  INFO Bus - Bus № 16 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,215  INFO Bus - Bus № 14 left the stop Kamarovsky market
+2021-07-21 09:12:15,216  INFO Bus - Bus № 16 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,216  INFO Bus - Bus № 19 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,216  INFO Bus - Bus № 12 returned to the depot
+2021-07-21 09:12:15,215  INFO Bus - Bus № 15 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,215  INFO Bus - Bus № 17 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,216  INFO Bus - Bus № 14 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:15,261  INFO Bus - Bus № 14 left the stop Gorky Park
+2021-07-21 09:12:15,261  INFO Bus - Bus № 18 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,263  INFO Bus - Bus № 14 returned to the depot
+2021-07-21 09:12:15,264  INFO Bus - Bus № 17 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,264  INFO Bus - Bus № 20 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,264  INFO Bus - Bus № 15 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,265  INFO Bus - Bus № 21 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,266  INFO Bus - Bus № 19 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,266  INFO Bus - Bus № 19 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,266  INFO Bus - Bus № 16 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,266  INFO Bus - Bus № 16 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,292  INFO Bus - Bus № 18 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,292  INFO Bus - Bus № 18 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,308  INFO Bus - Bus № 21 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,308  INFO Bus - Bus № 16 left the stop Kamarovsky market
+2021-07-21 09:12:15,308  INFO Bus - Bus № 20 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,308  INFO Bus - Bus № 19 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,308  INFO Bus - Bus № 20 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,308  INFO Bus - Bus № 16 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:15,308  INFO Bus - Bus № 24 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,308  INFO Bus - Bus № 19 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,324  INFO Bus - Bus № 18 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,324  INFO Bus - Bus № 23 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,340  INFO Bus - Bus № 16 left the stop Gorky Park
+2021-07-21 09:12:15,340  INFO Bus - Bus № 19 left the stop Kamarovsky market
+2021-07-21 09:12:15,340  INFO Bus - Bus № 24 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,340  INFO Bus - Bus № 20 left the stop Kamarovsky market
+2021-07-21 09:12:15,341  INFO Bus - Bus № 20 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:15,340  INFO Bus - Bus № 22 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,341  INFO Bus - Bus № 16 returned to the depot
+2021-07-21 09:12:15,340  INFO Bus - Bus № 19 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:15,340  INFO Bus - Bus № 28 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,357  INFO Bus - Bus № 23 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,358  INFO Bus - Bus № 23 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,372  INFO Bus - Bus № 22 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,372  INFO Bus - Bus № 20 left the stop Gorky Park
+2021-07-21 09:12:15,372  INFO Bus - Bus № 20 returned to the depot
+2021-07-21 09:12:15,372  INFO Bus - Bus № 22 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,372  INFO Bus - Bus № 25 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,388  INFO Bus - Bus № 28 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,388  INFO Bus - Bus № 30 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,388  INFO Bus - Bus № 19 left the stop Gorky Park
+2021-07-21 09:12:15,389  INFO Bus - Bus № 32 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,389  INFO Bus - Bus № 19 returned to the depot
+2021-07-21 09:12:15,403  INFO Bus - Bus № 23 left the stop Kamarovsky market
+2021-07-21 09:12:15,403  INFO Bus - Bus № 29 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,418  INFO Bus - Bus № 30 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,418  INFO Bus - Bus № 22 left the stop Kamarovsky market
+2021-07-21 09:12:15,418  INFO Bus - Bus № 25 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,418  INFO Bus - Bus № 22 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:15,418  INFO Bus - Bus № 25 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,419  INFO Bus - Bus № 26 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,440  INFO Bus - Bus № 29 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,442  INFO Bus - Bus № 27 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,444  INFO Bus - Bus № 32 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,445  INFO Bus - Bus № 31 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,450  INFO Bus - Bus № 22 left the stop Gorky Park
+2021-07-21 09:12:15,450  INFO Bus - Bus № 35 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,450  INFO Bus - Bus № 22 returned to the depot
+2021-07-21 09:12:15,451  INFO Bus - Bus № 25 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,451  INFO Bus - Bus № 34 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,465  INFO Bus - Bus № 26 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,465  INFO Bus - Bus № 37 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,543  INFO Bus - Bus № 34 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,551  INFO Bus - Bus № 36 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,568  INFO Bus - Bus № 35 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,568  INFO Bus - Bus № 35 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,568  INFO Bus - Bus № 31 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,569  INFO Bus - Bus № 38 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,569  INFO Bus - Bus № 27 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,569  INFO Bus - Bus № 42 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,571  INFO Bus - Bus № 37 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,571  INFO Bus - Bus № 49 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,598  INFO Bus - Bus № 36 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,600  INFO Bus - Bus № 39 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,608  INFO Bus - Bus № 49 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,608  INFO Bus - Bus № 38 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,608  INFO Bus - Bus № 40 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,608  INFO Bus - Bus № 41 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,609  INFO Bus - Bus № 42 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,609  INFO Bus - Bus № 45 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,609  INFO Bus - Bus № 35 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,609  INFO Bus - Bus № 35 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,640  INFO Bus - Bus № 35 left the stop Kamarovsky market
+2021-07-21 09:12:15,640  INFO Bus - Bus № 44 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,640  INFO Bus - Bus № 45 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,640  INFO Bus - Bus № 43 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,640  INFO Bus - Bus № 41 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,641  INFO Bus - Bus № 47 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,641  INFO Bus - Bus № 40 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,641  INFO Bus - Bus № 50 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,641  INFO Bus - Bus № 39 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,641  INFO Bus - Bus № 51 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,672  INFO Bus - Bus № 43 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,672  INFO Bus - Bus № 44 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,672  INFO Bus - Bus № 50 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,672  INFO Bus - Bus № 47 left the stop Kamarovsky market
+2021-07-21 09:12:15,672  INFO Bus - Bus № 51 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,672  INFO Bus - Bus № 47 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:15,673  INFO Bus - Bus № 53 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,672  INFO Bus - Bus № 50 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,672  INFO Bus - Bus № 44 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,672  INFO Bus - Bus № 51 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,704  INFO Bus - Bus № 47 left the stop Gorky Park
+2021-07-21 09:12:15,704  INFO Bus - Bus № 51 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,704  INFO Bus - Bus № 51 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,704  INFO Bus - Bus № 44 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,704  INFO Bus - Bus № 44 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,704  INFO Bus - Bus № 50 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,704  INFO Bus - Bus № 50 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,704  INFO Bus - Bus № 53 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,704  INFO Bus - Bus № 53 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,704  INFO Bus - Bus № 47 returned to the depot
+2021-07-21 09:12:15,704  INFO Bus - Bus № 48 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,736  INFO Bus - Bus № 48 left the stop Kamarovsky market
+2021-07-21 09:12:15,736  INFO Bus - Bus № 33 drove up to the Yakub Kolas Square bus stop 
+2021-07-21 09:12:15,736  INFO Bus - Bus № 53 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,737  INFO Bus - Bus № 50 left the stop Kamarovsky market
+2021-07-21 09:12:15,737  INFO Bus - Bus № 44 left the stop Kamarovsky market
+2021-07-21 09:12:15,737  INFO Bus - Bus № 51 left the stop Kamarovsky market
+2021-07-21 09:12:15,737  INFO Bus - Bus № 51 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:15,737  INFO Bus - Bus № 44 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:15,737  INFO Bus - Bus № 50 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:15,737  INFO Bus - Bus № 5 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,768  INFO Bus - Bus № 44 left the stop Gorky Park
+2021-07-21 09:12:15,768  INFO Bus - Bus № 33 left the stop Yakub Kolas Square
+2021-07-21 09:12:15,768  INFO Bus - Bus № 5 left the stop Kamarovsky market
+2021-07-21 09:12:15,768  INFO Bus - Bus № 50 left the stop Gorky Park
+2021-07-21 09:12:15,768  INFO Bus - Bus № 51 left the stop Gorky Park
+2021-07-21 09:12:15,768  INFO Bus - Bus № 54 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:15,768  INFO Bus - Bus № 50 returned to the depot
+2021-07-21 09:12:15,768  INFO Bus - Bus № 5 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:15,768  INFO Bus - Bus № 44 returned to the depot
+2021-07-21 09:12:15,768  INFO Bus - Bus № 33 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,768  INFO Bus - Bus № 1 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,768  INFO Bus - Bus № 10 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,768  INFO Bus - Bus № 51 returned to the depot
+2021-07-21 09:12:15,800  INFO Bus - Bus № 10 left the stop Kamarovsky market
+2021-07-21 09:12:15,801  INFO Bus - Bus № 7 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:15,801  INFO Bus - Bus № 1 left the stop Kamarovsky market
+2021-07-21 09:12:15,801  INFO Bus - Bus № 33 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,801  INFO Bus - Bus № 33 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,801  INFO Bus - Bus № 13 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,802  INFO Bus - Bus № 5 left the stop Gorky Park
+2021-07-21 09:12:15,802  INFO Bus - Bus № 11 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:15,802  INFO Bus - Bus № 5 returned to the depot
+2021-07-21 09:12:15,802  INFO Bus - Bus № 54 left the stop Gorky Park
+2021-07-21 09:12:15,803  INFO Bus - Bus № 17 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,803  INFO Bus - Bus № 54 returned to the depot
+2021-07-21 09:12:15,839  INFO Bus - Bus № 7 left the stop Gorky Park
+2021-07-21 09:12:15,839  INFO Bus - Bus № 15 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,839  INFO Bus - Bus № 7 returned to the depot
+2021-07-21 09:12:15,841  INFO Bus - Bus № 13 left the stop Kamarovsky market
+2021-07-21 09:12:15,841  INFO Bus - Bus № 33 left the stop Kamarovsky market
+2021-07-21 09:12:15,842  INFO Bus - Bus № 33 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:15,842  INFO Bus - Bus № 13 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:15,848  INFO Bus - Bus № 17 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,849  INFO Bus - Bus № 21 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,854  INFO Bus - Bus № 11 left the stop Gorky Park
+2021-07-21 09:12:15,854  INFO Bus - Bus № 11 returned to the depot
+2021-07-21 09:12:15,854  INFO Bus - Bus № 18 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,879  INFO Bus - Bus № 13 left the stop Gorky Park
+2021-07-21 09:12:15,879  INFO Bus - Bus № 24 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,880  INFO Bus - Bus № 13 returned to the depot
+2021-07-21 09:12:15,881  INFO Bus - Bus № 33 left the stop Gorky Park
+2021-07-21 09:12:15,882  INFO Bus - Bus № 28 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,882  INFO Bus - Bus № 33 returned to the depot
+2021-07-21 09:12:15,882  INFO Bus - Bus № 15 left the stop Kamarovsky market
+2021-07-21 09:12:15,883  INFO Bus - Bus № 23 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:15,902  INFO Bus - Bus № 18 left the stop Kamarovsky market
+2021-07-21 09:12:15,902  INFO Bus - Bus № 21 left the stop Kamarovsky market
+2021-07-21 09:12:15,902  INFO Bus - Bus № 21 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:15,902  INFO Bus - Bus № 30 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,910  INFO Bus - Bus № 24 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,910  INFO Bus - Bus № 29 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,947  INFO Bus - Bus № 23 left the stop Gorky Park
+2021-07-21 09:12:15,947  INFO Bus - Bus № 32 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,947  INFO Bus - Bus № 23 returned to the depot
+2021-07-21 09:12:15,948  INFO Bus - Bus № 28 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,948  INFO Bus - Bus № 25 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,948  INFO Bus - Bus № 29 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,950  INFO Bus - Bus № 26 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,950  INFO Bus - Bus № 30 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,950  INFO Bus - Bus № 34 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,951  INFO Bus - Bus № 21 left the stop Gorky Park
+2021-07-21 09:12:15,951  INFO Bus - Bus № 31 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,951  INFO Bus - Bus № 21 returned to the depot
+2021-07-21 09:12:15,990  INFO Bus - Bus № 31 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,991  INFO Bus - Bus № 27 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:15,991  INFO Bus - Bus № 34 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,991  INFO Bus - Bus № 37 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,991  INFO Bus - Bus № 26 left the stop Kamarovsky market
+2021-07-21 09:12:15,992  INFO Bus - Bus № 36 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,992  INFO Bus - Bus № 25 left the stop Kamarovsky market
+2021-07-21 09:12:15,993  INFO Bus - Bus № 38 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:15,994  INFO Bus - Bus № 32 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:15,994  INFO Bus - Bus № 49 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:16,022  INFO Bus - Bus № 27 left the stop Kamarovsky market
+2021-07-21 09:12:16,022  INFO Bus - Bus № 42 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:16,022  INFO Bus - Bus № 37 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:16,023  INFO Bus - Bus № 35 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,037  INFO Bus - Bus № 38 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:16,037  INFO Bus - Bus № 45 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:12:16,037  INFO Bus - Bus № 49 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:16,037  INFO Bus - Bus № 41 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:16,037  INFO Bus - Bus № 36 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:16,038  INFO Bus - Bus № 40 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:16,053  INFO Bus - Bus № 42 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:16,053  INFO Bus - Bus № 42 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:16,069  INFO Bus - Bus № 40 left the stop Kamarovsky market
+2021-07-21 09:12:16,069  INFO Bus - Bus № 39 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:16,071  INFO Bus - Bus № 45 left the stop Krasnozvezdnaya street
+2021-07-21 09:12:16,071  INFO Bus - Bus № 43 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:16,072  INFO Bus - Bus № 41 left the stop Kamarovsky market
+2021-07-21 09:12:16,072  INFO Bus - Bus № 48 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,072  INFO Bus - Bus № 35 left the stop Gorky Park
+2021-07-21 09:12:16,072  INFO Bus - Bus № 53 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:16,072  INFO Bus - Bus № 35 returned to the depot
+2021-07-21 09:12:16,084  INFO Bus - Bus № 42 left the stop Kamarovsky market
+2021-07-21 09:12:16,084  INFO Bus - Bus № 10 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,115  INFO Bus - Bus № 10 left the stop Gorky Park
+2021-07-21 09:12:16,115  INFO Bus - Bus № 1 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,115  INFO Bus - Bus № 10 returned to the depot
+2021-07-21 09:12:16,115  INFO Bus - Bus № 53 left the stop Kamarovsky market
+2021-07-21 09:12:16,115  INFO Bus - Bus № 17 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:16,116  INFO Bus - Bus № 43 left the stop Kamarovsky market
+2021-07-21 09:12:16,116  INFO Bus - Bus № 15 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,116  INFO Bus - Bus № 48 left the stop Gorky Park
+2021-07-21 09:12:16,116  INFO Bus - Bus № 39 left the stop Kamarovsky market
+2021-07-21 09:12:16,116  INFO Bus - Bus № 39 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,116  INFO Bus - Bus № 48 returned to the depot
+2021-07-21 09:12:16,116  INFO Bus - Bus № 18 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,146  INFO Bus - Bus № 1 left the stop Gorky Park
+2021-07-21 09:12:16,146  INFO Bus - Bus № 1 returned to the depot
+2021-07-21 09:12:16,146  INFO Bus - Bus № 24 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:16,161  INFO Bus - Bus № 18 left the stop Gorky Park
+2021-07-21 09:12:16,161  INFO Bus - Bus № 39 left the stop Gorky Park
+2021-07-21 09:12:16,161  INFO Bus - Bus № 15 left the stop Gorky Park
+2021-07-21 09:12:16,161  INFO Bus - Bus № 17 left the stop Kamarovsky market
+2021-07-21 09:12:16,161  INFO Bus - Bus № 30 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:16,161  INFO Bus - Bus № 15 returned to the depot
+2021-07-21 09:12:16,161  INFO Bus - Bus № 29 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:16,161  INFO Bus - Bus № 39 returned to the depot
+2021-07-21 09:12:16,161  INFO Bus - Bus № 18 returned to the depot
+2021-07-21 09:12:16,161  INFO Bus - Bus № 28 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:16,161  INFO Bus - Bus № 17 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,177  INFO Bus - Bus № 24 left the stop Kamarovsky market
+2021-07-21 09:12:16,177  INFO Bus - Bus № 24 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,192  INFO Bus - Bus № 30 left the stop Kamarovsky market
+2021-07-21 09:12:16,192  INFO Bus - Bus № 31 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:16,207  INFO Bus - Bus № 24 left the stop Gorky Park
+2021-07-21 09:12:16,207  INFO Bus - Bus № 17 left the stop Gorky Park
+2021-07-21 09:12:16,207  INFO Bus - Bus № 34 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:16,208  INFO Bus - Bus № 24 returned to the depot
+2021-07-21 09:12:16,208  INFO Bus - Bus № 26 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,208  INFO Bus - Bus № 17 returned to the depot
+2021-07-21 09:12:16,208  INFO Bus - Bus № 29 left the stop Kamarovsky market
+2021-07-21 09:12:16,208  INFO Bus - Bus № 28 left the stop Kamarovsky market
+2021-07-21 09:12:16,209  INFO Bus - Bus № 28 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,209  INFO Bus - Bus № 25 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,223  INFO Bus - Bus № 31 left the stop Kamarovsky market
+2021-07-21 09:12:16,223  INFO Bus - Bus № 32 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:16,253  INFO Bus - Bus № 32 left the stop Kamarovsky market
+2021-07-21 09:12:16,253  INFO Bus - Bus № 27 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,253  INFO Bus - Bus № 25 left the stop Gorky Park
+2021-07-21 09:12:16,254  INFO Bus - Bus № 37 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:16,255  INFO Bus - Bus № 25 returned to the depot
+2021-07-21 09:12:16,256  INFO Bus - Bus № 28 left the stop Gorky Park
+2021-07-21 09:12:16,256  INFO Bus - Bus № 28 returned to the depot
+2021-07-21 09:12:16,257  INFO Bus - Bus № 38 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:16,257  INFO Bus - Bus № 26 left the stop Gorky Park
+2021-07-21 09:12:16,257  INFO Bus - Bus № 49 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:16,257  INFO Bus - Bus № 26 returned to the depot
+2021-07-21 09:12:16,257  INFO Bus - Bus № 34 left the stop Kamarovsky market
+2021-07-21 09:12:16,258  INFO Bus - Bus № 36 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:16,284  INFO Bus - Bus № 27 left the stop Gorky Park
+2021-07-21 09:12:16,284  INFO Bus - Bus № 40 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,284  INFO Bus - Bus № 27 returned to the depot
+2021-07-21 09:12:16,299  INFO Bus - Bus № 36 left the stop Kamarovsky market
+2021-07-21 09:12:16,299  INFO Bus - Bus № 38 left the stop Kamarovsky market
+2021-07-21 09:12:16,299  INFO Bus - Bus № 49 left the stop Kamarovsky market
+2021-07-21 09:12:16,300  INFO Bus - Bus № 49 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,299  INFO Bus - Bus № 45 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:12:16,300  INFO Bus - Bus № 41 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,300  INFO Bus - Bus № 37 left the stop Kamarovsky market
+2021-07-21 09:12:16,300  INFO Bus - Bus № 42 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,315  INFO Bus - Bus № 40 left the stop Gorky Park
+2021-07-21 09:12:16,315  INFO Bus - Bus № 53 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,315  INFO Bus - Bus № 40 returned to the depot
+2021-07-21 09:12:16,345  INFO Bus - Bus № 53 left the stop Gorky Park
+2021-07-21 09:12:16,345  INFO Bus - Bus № 45 left the stop Kamarovsky market
+2021-07-21 09:12:16,345  INFO Bus - Bus № 49 left the stop Gorky Park
+2021-07-21 09:12:16,345  INFO Bus - Bus № 49 returned to the depot
+2021-07-21 09:12:16,345  INFO Bus - Bus № 42 left the stop Gorky Park
+2021-07-21 09:12:16,346  INFO Bus - Bus № 42 returned to the depot
+2021-07-21 09:12:16,345  INFO Bus - Bus № 30 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,345  INFO Bus - Bus № 41 left the stop Gorky Park
+2021-07-21 09:12:16,346  INFO Bus - Bus № 41 returned to the depot
+2021-07-21 09:12:16,346  INFO Bus - Bus № 32 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,345  INFO Bus - Bus № 53 returned to the depot
+2021-07-21 09:12:16,345  INFO Bus - Bus № 43 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,346  INFO Bus - Bus № 31 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,346  INFO Bus - Bus № 29 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,391  INFO Bus - Bus № 29 left the stop Gorky Park
+2021-07-21 09:12:16,391  INFO Bus - Bus № 34 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,391  INFO Bus - Bus № 29 returned to the depot
+2021-07-21 09:12:16,392  INFO Bus - Bus № 31 left the stop Gorky Park
+2021-07-21 09:12:16,392  INFO Bus - Bus № 36 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,392  INFO Bus - Bus № 31 returned to the depot
+2021-07-21 09:12:16,394  INFO Bus - Bus № 43 left the stop Gorky Park
+2021-07-21 09:12:16,394  INFO Bus - Bus № 38 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,394  INFO Bus - Bus № 43 returned to the depot
+2021-07-21 09:12:16,395  INFO Bus - Bus № 32 left the stop Gorky Park
+2021-07-21 09:12:16,395  INFO Bus - Bus № 37 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,395  INFO Bus - Bus № 32 returned to the depot
+2021-07-21 09:12:16,395  INFO Bus - Bus № 30 left the stop Gorky Park
+2021-07-21 09:12:16,396  INFO Bus - Bus № 45 drove up to the Gorky Park bus stop 
+2021-07-21 09:12:16,396  INFO Bus - Bus № 30 returned to the depot
+2021-07-21 09:12:16,422  INFO Bus - Bus № 36 left the stop Gorky Park
+2021-07-21 09:12:16,422  INFO Bus - Bus № 36 returned to the depot
+2021-07-21 09:12:16,423  INFO Bus - Bus № 34 left the stop Gorky Park
+2021-07-21 09:12:16,423  INFO Bus - Bus № 34 returned to the depot
+2021-07-21 09:12:16,439  INFO Bus - Bus № 45 left the stop Gorky Park
+2021-07-21 09:12:16,439  INFO Bus - Bus № 45 returned to the depot
+2021-07-21 09:12:16,440  INFO Bus - Bus № 37 left the stop Gorky Park
+2021-07-21 09:12:16,440  INFO Bus - Bus № 37 returned to the depot
+2021-07-21 09:12:16,441  INFO Bus - Bus № 38 left the stop Gorky Park
+2021-07-21 09:12:16,441  INFO Bus - Bus № 38 returned to the depot
+2021-07-21 09:12:16,441  INFO BusDepot - ----------------------------The day has finish-----------------------------
+2021-07-21 09:18:04,992  INFO BusDepot - ----------------------------The day has begun-----------------------------
+2021-07-21 09:18:04,999  INFO BusDepot - Route {busStops [Gorky Park, Krasnozvezdnaya street, Kamarovsky market, Krasnozvezdnaya street, Gorky Park, Independence Square]}
+2021-07-21 09:18:05,006  INFO Bus - Bus № 2 went on the route
+2021-07-21 09:18:05,006  INFO Bus - Bus № 1 went on the route
+2021-07-21 09:18:05,007  INFO Bus - Bus № 1 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,007  INFO Bus - Bus № 2 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,008  INFO Bus - Bus № 3 went on the route
+2021-07-21 09:18:05,008  INFO Bus - Bus № 4 went on the route
+2021-07-21 09:18:05,009  INFO Bus - Bus № 5 went on the route
+2021-07-21 09:18:05,009  INFO Bus - Bus № 6 went on the route
+2021-07-21 09:18:05,010  INFO Bus - Bus № 8 went on the route
+2021-07-21 09:18:05,009  INFO Bus - Bus № 3 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,009  INFO Bus - Bus № 4 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,009  INFO Bus - Bus № 7 went on the route
+2021-07-21 09:18:05,009  INFO Bus - Bus № 5 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,012  INFO Bus - Bus № 10 went on the route
+2021-07-21 09:18:05,012  INFO Bus - Bus № 9 went on the route
+2021-07-21 09:18:05,014  INFO Bus - Bus № 11 went on the route
+2021-07-21 09:18:05,015  INFO Bus - Bus № 12 went on the route
+2021-07-21 09:18:05,018  INFO Bus - Bus № 13 went on the route
+2021-07-21 09:18:05,019  INFO Bus - Bus № 14 went on the route
+2021-07-21 09:18:05,019  INFO Bus - Bus № 15 went on the route
+2021-07-21 09:18:05,020  INFO Bus - Bus № 16 went on the route
+2021-07-21 09:18:05,020  INFO Bus - Bus № 17 went on the route
+2021-07-21 09:18:05,021  INFO Bus - Bus № 18 went on the route
+2021-07-21 09:18:05,021  INFO Bus - Bus № 19 went on the route
+2021-07-21 09:18:05,023  INFO Bus - Bus № 20 went on the route
+2021-07-21 09:18:05,025  INFO Bus - Bus № 21 went on the route
+2021-07-21 09:18:05,026  INFO Bus - Bus № 22 went on the route
+2021-07-21 09:18:05,026  INFO Bus - Bus № 24 went on the route
+2021-07-21 09:18:05,026  INFO Bus - Bus № 53 went on the route
+2021-07-21 09:18:05,027  INFO Bus - Bus № 26 went on the route
+2021-07-21 09:18:05,027  INFO Bus - Bus № 25 went on the route
+2021-07-21 09:18:05,027  INFO Bus - Bus № 28 went on the route
+2021-07-21 09:18:05,027  INFO Bus - Bus № 27 went on the route
+2021-07-21 09:18:05,028  INFO Bus - Bus № 30 went on the route
+2021-07-21 09:18:05,028  INFO Bus - Bus № 29 went on the route
+2021-07-21 09:18:05,028  INFO Bus - Bus № 32 went on the route
+2021-07-21 09:18:05,035  INFO Bus - Bus № 52 went on the route
+2021-07-21 09:18:05,035  INFO Bus - Bus № 45 went on the route
+2021-07-21 09:18:05,036  INFO Bus - Bus № 41 went on the route
+2021-07-21 09:18:05,028  INFO Bus - Bus № 31 went on the route
+2021-07-21 09:18:05,036  INFO Bus - Bus № 34 went on the route
+2021-07-21 09:18:05,036  INFO Bus - Bus № 35 went on the route
+2021-07-21 09:18:05,036  INFO Bus - Bus № 36 went on the route
+2021-07-21 09:18:05,036  INFO Bus - Bus № 37 went on the route
+2021-07-21 09:18:05,036  INFO Bus - Bus № 38 went on the route
+2021-07-21 09:18:05,036  INFO Bus - Bus № 40 went on the route
+2021-07-21 09:18:05,036  INFO Bus - Bus № 39 went on the route
+2021-07-21 09:18:05,035  INFO Bus - Bus № 47 went on the route
+2021-07-21 09:18:05,035  INFO Bus - Bus № 42 went on the route
+2021-07-21 09:18:05,035  INFO Bus - Bus № 44 went on the route
+2021-07-21 09:18:05,035  INFO Bus - Bus № 46 went on the route
+2021-07-21 09:18:05,035  INFO Bus - Bus № 43 went on the route
+2021-07-21 09:18:05,035  INFO Bus - Bus № 48 went on the route
+2021-07-21 09:18:05,035  INFO Bus - Bus № 49 went on the route
+2021-07-21 09:18:05,035  INFO Bus - Bus № 50 went on the route
+2021-07-21 09:18:05,035  INFO Bus - Bus № 51 went on the route
+2021-07-21 09:18:05,035  INFO Bus - Bus № 23 went on the route
+2021-07-21 09:18:05,034  INFO Bus - Bus № 33 went on the route
+2021-07-21 09:18:05,046  INFO Bus - Bus № 4 left the stop Gorky Park
+2021-07-21 09:18:05,046  INFO Bus - Bus № 5 left the stop Gorky Park
+2021-07-21 09:18:05,046  INFO Bus - Bus № 1 left the stop Gorky Park
+2021-07-21 09:18:05,046  INFO Bus - Bus № 5 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,046  INFO Bus - Bus № 2 left the stop Gorky Park
+2021-07-21 09:18:05,046  INFO Bus - Bus № 3 left the stop Gorky Park
+2021-07-21 09:18:05,046  INFO Bus - Bus № 4 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,048  INFO Bus - Bus № 3 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,047  INFO Bus - Bus № 2 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,047  INFO Bus - Bus № 1 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,078  INFO Bus - Bus № 4 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,079  INFO Bus - Bus № 6 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,081  INFO Bus - Bus № 3 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,086  INFO Bus - Bus № 8 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,086  INFO Bus - Bus № 5 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,087  INFO Bus - Bus № 7 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,103  INFO Bus - Bus № 2 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,103  INFO Bus - Bus № 1 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,104  INFO Bus - Bus № 10 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,104  INFO Bus - Bus № 1 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:05,126  INFO Bus - Bus № 7 left the stop Gorky Park
+2021-07-21 09:18:05,126  INFO Bus - Bus № 8 left the stop Gorky Park
+2021-07-21 09:18:05,126  INFO Bus - Bus № 6 left the stop Gorky Park
+2021-07-21 09:18:05,127  INFO Bus - Bus № 9 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,127  INFO Bus - Bus № 8 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,127  INFO Bus - Bus № 6 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,144  INFO Bus - Bus № 1 left the stop Kamarovsky market
+2021-07-21 09:18:05,144  INFO Bus - Bus № 10 left the stop Gorky Park
+2021-07-21 09:18:05,148  INFO Bus - Bus № 10 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,148  INFO Bus - Bus № 11 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,173  INFO Bus - Bus № 8 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,173  INFO Bus - Bus № 9 left the stop Gorky Park
+2021-07-21 09:18:05,173  INFO Bus - Bus № 9 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,173  INFO Bus - Bus № 6 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,174  INFO Bus - Bus № 6 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:05,173  INFO Bus - Bus № 12 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,189  INFO Bus - Bus № 11 left the stop Gorky Park
+2021-07-21 09:18:05,190  INFO Bus - Bus № 13 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,191  INFO Bus - Bus № 10 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,193  INFO Bus - Bus № 14 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,219  INFO Bus - Bus № 12 left the stop Gorky Park
+2021-07-21 09:18:05,219  INFO Bus - Bus № 15 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,219  INFO Bus - Bus № 6 left the stop Kamarovsky market
+2021-07-21 09:18:05,220  INFO Bus - Bus № 6 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,220  INFO Bus - Bus № 9 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,221  INFO Bus - Bus № 9 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:05,235  INFO Bus - Bus № 14 left the stop Gorky Park
+2021-07-21 09:18:05,235  INFO Bus - Bus № 16 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,236  INFO Bus - Bus № 13 left the stop Gorky Park
+2021-07-21 09:18:05,236  INFO Bus - Bus № 17 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,250  INFO Bus - Bus № 15 left the stop Gorky Park
+2021-07-21 09:18:05,253  INFO Bus - Bus № 18 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,265  INFO Bus - Bus № 9 left the stop Kamarovsky market
+2021-07-21 09:18:05,265  INFO Bus - Bus № 6 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,265  INFO Bus - Bus № 19 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,265  INFO Bus - Bus № 20 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,281  INFO Bus - Bus № 17 left the stop Gorky Park
+2021-07-21 09:18:05,281  INFO Bus - Bus № 16 left the stop Gorky Park
+2021-07-21 09:18:05,282  INFO Bus - Bus № 16 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,282  INFO Bus - Bus № 21 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,296  INFO Bus - Bus № 19 left the stop Gorky Park
+2021-07-21 09:18:05,301  INFO Bus - Bus № 22 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,302  INFO Bus - Bus № 18 left the stop Gorky Park
+2021-07-21 09:18:05,303  INFO Bus - Bus № 18 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,311  INFO Bus - Bus № 20 left the stop Gorky Park
+2021-07-21 09:18:05,311  INFO Bus - Bus № 20 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,327  INFO Bus - Bus № 21 left the stop Gorky Park
+2021-07-21 09:18:05,330  INFO Bus - Bus № 24 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,331  INFO Bus - Bus № 16 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,331  INFO Bus - Bus № 53 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,342  INFO Bus - Bus № 18 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,342  INFO Bus - Bus № 22 left the stop Gorky Park
+2021-07-21 09:18:05,343  INFO Bus - Bus № 22 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,343  INFO Bus - Bus № 18 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:05,358  INFO Bus - Bus № 20 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,359  INFO Bus - Bus № 26 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,374  INFO Bus - Bus № 53 left the stop Gorky Park
+2021-07-21 09:18:05,374  INFO Bus - Bus № 24 left the stop Gorky Park
+2021-07-21 09:18:05,374  INFO Bus - Bus № 24 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,374  INFO Bus - Bus № 25 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,389  INFO Bus - Bus № 22 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,389  INFO Bus - Bus № 28 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,391  INFO Bus - Bus № 18 left the stop Kamarovsky market
+2021-07-21 09:18:05,392  INFO Bus - Bus № 18 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,404  INFO Bus - Bus № 26 left the stop Gorky Park
+2021-07-21 09:18:05,405  INFO Bus - Bus № 26 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,420  INFO Bus - Bus № 25 left the stop Gorky Park
+2021-07-21 09:18:05,420  INFO Bus - Bus № 24 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,420  INFO Bus - Bus № 27 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,420  INFO Bus - Bus № 24 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:05,435  INFO Bus - Bus № 26 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,435  INFO Bus - Bus № 30 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,435  INFO Bus - Bus № 18 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,436  INFO Bus - Bus № 28 left the stop Gorky Park
+2021-07-21 09:18:05,436  INFO Bus - Bus № 28 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,440  INFO Bus - Bus № 29 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,466  INFO Bus - Bus № 30 left the stop Gorky Park
+2021-07-21 09:18:05,466  INFO Bus - Bus № 24 left the stop Kamarovsky market
+2021-07-21 09:18:05,466  INFO Bus - Bus № 27 left the stop Gorky Park
+2021-07-21 09:18:05,466  INFO Bus - Bus № 24 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,466  INFO Bus - Bus № 32 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,467  INFO Bus - Bus № 27 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,481  INFO Bus - Bus № 29 left the stop Gorky Park
+2021-07-21 09:18:05,481  INFO Bus - Bus № 52 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,482  INFO Bus - Bus № 28 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,482  INFO Bus - Bus № 28 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:05,512  INFO Bus - Bus № 32 left the stop Gorky Park
+2021-07-21 09:18:05,512  INFO Bus - Bus № 45 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,512  INFO Bus - Bus № 27 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,513  INFO Bus - Bus № 41 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,514  INFO Bus - Bus № 24 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,520  INFO Bus - Bus № 31 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,527  INFO Bus - Bus № 28 left the stop Kamarovsky market
+2021-07-21 09:18:05,527  INFO Bus - Bus № 34 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,528  INFO Bus - Bus № 52 left the stop Gorky Park
+2021-07-21 09:18:05,528  INFO Bus - Bus № 52 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,543  INFO Bus - Bus № 41 left the stop Gorky Park
+2021-07-21 09:18:05,543  INFO Bus - Bus № 45 left the stop Gorky Park
+2021-07-21 09:18:05,543  INFO Bus - Bus № 35 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,543  INFO Bus - Bus № 45 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,558  INFO Bus - Bus № 31 left the stop Gorky Park
+2021-07-21 09:18:05,558  INFO Bus - Bus № 31 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,573  INFO Bus - Bus № 52 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,573  INFO Bus - Bus № 34 left the stop Gorky Park
+2021-07-21 09:18:05,573  INFO Bus - Bus № 52 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:05,573  INFO Bus - Bus № 34 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,589  INFO Bus - Bus № 31 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,589  INFO Bus - Bus № 35 left the stop Gorky Park
+2021-07-21 09:18:05,589  INFO Bus - Bus № 45 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,589  INFO Bus - Bus № 35 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,589  INFO Bus - Bus № 31 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:05,590  INFO Bus - Bus № 45 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:05,604  INFO Bus - Bus № 52 left the stop Kamarovsky market
+2021-07-21 09:18:05,604  INFO Bus - Bus № 52 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,619  INFO Bus - Bus № 34 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,619  INFO Bus - Bus № 34 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:05,635  INFO Bus - Bus № 52 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,635  INFO Bus - Bus № 35 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,635  INFO Bus - Bus № 45 left the stop Kamarovsky market
+2021-07-21 09:18:05,635  INFO Bus - Bus № 31 left the stop Kamarovsky market
+2021-07-21 09:18:05,635  INFO Bus - Bus № 45 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,635  INFO Bus - Bus № 35 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:05,635  INFO Bus - Bus № 52 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,635  INFO Bus - Bus № 31 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,650  INFO Bus - Bus № 34 left the stop Kamarovsky market
+2021-07-21 09:18:05,650  INFO Bus - Bus № 34 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,666  INFO Bus - Bus № 45 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,666  INFO Bus - Bus № 45 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,681  INFO Bus - Bus № 35 left the stop Kamarovsky market
+2021-07-21 09:18:05,681  INFO Bus - Bus № 31 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,681  INFO Bus - Bus № 52 left the stop Gorky Park
+2021-07-21 09:18:05,681  INFO Bus - Bus № 34 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,681  INFO Bus - Bus № 52 drove up to the Independence Square bus stop 
+2021-07-21 09:18:05,681  INFO Bus - Bus № 31 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,681  INFO Bus - Bus № 36 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,682  INFO Bus - Bus № 34 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,696  INFO Bus - Bus № 45 left the stop Gorky Park
+2021-07-21 09:18:05,696  INFO Bus - Bus № 45 drove up to the Independence Square bus stop 
+2021-07-21 09:18:05,712  INFO Bus - Bus № 36 left the stop Gorky Park
+2021-07-21 09:18:05,712  INFO Bus - Bus № 34 left the stop Gorky Park
+2021-07-21 09:18:05,712  INFO Bus - Bus № 52 left the stop Independence Square
+2021-07-21 09:18:05,712  INFO Bus - Bus № 31 left the stop Gorky Park
+2021-07-21 09:18:05,712  INFO Bus - Bus № 38 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,712  INFO Bus - Bus № 52 returned to the depot
+2021-07-21 09:18:05,712  INFO Bus - Bus № 34 drove up to the Independence Square bus stop 
+2021-07-21 09:18:05,712  INFO Bus - Bus № 37 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,713  INFO Bus - Bus № 31 drove up to the Independence Square bus stop 
+2021-07-21 09:18:05,728  INFO Bus - Bus № 45 left the stop Independence Square
+2021-07-21 09:18:05,728  INFO Bus - Bus № 45 returned to the depot
+2021-07-21 09:18:05,728  INFO Bus - Bus № 40 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,744  INFO Bus - Bus № 31 left the stop Independence Square
+2021-07-21 09:18:05,744  INFO Bus - Bus № 37 left the stop Gorky Park
+2021-07-21 09:18:05,744  INFO Bus - Bus № 34 left the stop Independence Square
+2021-07-21 09:18:05,744  INFO Bus - Bus № 38 left the stop Gorky Park
+2021-07-21 09:18:05,745  INFO Bus - Bus № 47 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,745  INFO Bus - Bus № 34 returned to the depot
+2021-07-21 09:18:05,744  INFO Bus - Bus № 37 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,744  INFO Bus - Bus № 39 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,744  INFO Bus - Bus № 31 returned to the depot
+2021-07-21 09:18:05,745  INFO Bus - Bus № 38 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,760  INFO Bus - Bus № 40 left the stop Gorky Park
+2021-07-21 09:18:05,760  INFO Bus - Bus № 40 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,776  INFO Bus - Bus № 39 left the stop Gorky Park
+2021-07-21 09:18:05,776  INFO Bus - Bus № 37 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,776  INFO Bus - Bus № 47 left the stop Gorky Park
+2021-07-21 09:18:05,776  INFO Bus - Bus № 37 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:05,777  INFO Bus - Bus № 39 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,776  INFO Bus - Bus № 47 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,792  INFO Bus - Bus № 38 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,792  INFO Bus - Bus № 40 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,792  INFO Bus - Bus № 42 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,792  INFO Bus - Bus № 40 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:05,808  INFO Bus - Bus № 37 left the stop Kamarovsky market
+2021-07-21 09:18:05,808  INFO Bus - Bus № 47 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,808  INFO Bus - Bus № 39 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,808  INFO Bus - Bus № 47 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:05,808  INFO Bus - Bus № 37 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,808  INFO Bus - Bus № 39 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:05,824  INFO Bus - Bus № 40 left the stop Kamarovsky market
+2021-07-21 09:18:05,824  INFO Bus - Bus № 42 left the stop Gorky Park
+2021-07-21 09:18:05,825  INFO Bus - Bus № 44 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,825  INFO Bus - Bus № 42 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,840  INFO Bus - Bus № 39 left the stop Kamarovsky market
+2021-07-21 09:18:05,840  INFO Bus - Bus № 47 left the stop Kamarovsky market
+2021-07-21 09:18:05,840  INFO Bus - Bus № 37 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,840  INFO Bus - Bus № 47 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,840  INFO Bus - Bus № 46 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,840  INFO Bus - Bus № 37 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,856  INFO Bus - Bus № 44 left the stop Gorky Park
+2021-07-21 09:18:05,856  INFO Bus - Bus № 42 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,856  INFO Bus - Bus № 42 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:05,856  INFO Bus - Bus № 44 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,872  INFO Bus - Bus № 47 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,872  INFO Bus - Bus № 43 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,873  INFO Bus - Bus № 46 left the stop Gorky Park
+2021-07-21 09:18:05,877  INFO Bus - Bus № 48 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,878  INFO Bus - Bus № 37 left the stop Gorky Park
+2021-07-21 09:18:05,878  INFO Bus - Bus № 49 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,888  INFO Bus - Bus № 44 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,888  INFO Bus - Bus № 50 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,888  INFO Bus - Bus № 42 left the stop Kamarovsky market
+2021-07-21 09:18:05,888  INFO Bus - Bus № 42 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,904  INFO Bus - Bus № 43 left the stop Gorky Park
+2021-07-21 09:18:05,904  INFO Bus - Bus № 51 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,919  INFO Bus - Bus № 49 left the stop Gorky Park
+2021-07-21 09:18:05,919  INFO Bus - Bus № 48 left the stop Gorky Park
+2021-07-21 09:18:05,919  INFO Bus - Bus № 50 left the stop Gorky Park
+2021-07-21 09:18:05,919  INFO Bus - Bus № 48 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,920  INFO Bus - Bus № 23 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,920  INFO Bus - Bus № 50 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,934  INFO Bus - Bus № 42 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,934  INFO Bus - Bus № 42 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,950  INFO Bus - Bus № 51 left the stop Gorky Park
+2021-07-21 09:18:05,950  INFO Bus - Bus № 51 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:05,966  INFO Bus - Bus № 42 left the stop Gorky Park
+2021-07-21 09:18:05,966  INFO Bus - Bus № 48 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,966  INFO Bus - Bus № 48 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:05,967  INFO Bus - Bus № 33 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:05,967  INFO Bus - Bus № 23 left the stop Gorky Park
+2021-07-21 09:18:05,967  INFO Bus - Bus № 4 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:05,967  INFO Bus - Bus № 50 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,968  INFO Bus - Bus № 3 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:05,995  INFO Bus - Bus № 51 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:05,995  INFO Bus - Bus № 51 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,011  INFO Bus - Bus № 3 left the stop Kamarovsky market
+2021-07-21 09:18:06,011  INFO Bus - Bus № 48 left the stop Kamarovsky market
+2021-07-21 09:18:06,011  INFO Bus - Bus № 33 left the stop Gorky Park
+2021-07-21 09:18:06,011  INFO Bus - Bus № 4 left the stop Kamarovsky market
+2021-07-21 09:18:06,011  INFO Bus - Bus № 33 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,011  INFO Bus - Bus № 48 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,011  INFO Bus - Bus № 3 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,012  INFO Bus - Bus № 4 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,026  INFO Bus - Bus № 51 left the stop Kamarovsky market
+2021-07-21 09:18:06,026  INFO Bus - Bus № 51 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,057  INFO Bus - Bus № 51 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,058  INFO Bus - Bus № 5 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,058  INFO Bus - Bus № 4 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,059  INFO Bus - Bus № 2 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,059  INFO Bus - Bus № 3 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,060  INFO Bus - Bus № 7 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,061  INFO Bus - Bus № 48 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,061  INFO Bus - Bus № 1 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,068  INFO Bus - Bus № 33 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,069  INFO Bus - Bus № 33 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,103  INFO Bus - Bus № 33 left the stop Kamarovsky market
+2021-07-21 09:18:06,103  INFO Bus - Bus № 8 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,103  INFO Bus - Bus № 7 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,103  INFO Bus - Bus № 1 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,103  INFO Bus - Bus № 11 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,103  INFO Bus - Bus № 1 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:06,104  INFO Bus - Bus № 2 left the stop Kamarovsky market
+2021-07-21 09:18:06,104  INFO Bus - Bus № 5 left the stop Kamarovsky market
+2021-07-21 09:18:06,104  INFO Bus - Bus № 5 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,104  INFO Bus - Bus № 2 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,135  INFO Bus - Bus № 1 left the stop Gorky Park
+2021-07-21 09:18:06,135  INFO Bus - Bus № 8 left the stop Kamarovsky market
+2021-07-21 09:18:06,135  INFO Bus - Bus № 8 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,135  INFO Bus - Bus № 5 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,136  INFO Bus - Bus № 5 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:06,135  INFO Bus - Bus № 11 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,136  INFO Bus - Bus № 11 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,135  INFO Bus - Bus № 10 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,150  INFO Bus - Bus № 2 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,150  INFO Bus - Bus № 12 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,166  INFO Bus - Bus № 5 left the stop Gorky Park
+2021-07-21 09:18:06,166  INFO Bus - Bus № 14 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,169  INFO Bus - Bus № 8 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,170  INFO Bus - Bus № 13 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,182  INFO Bus - Bus № 12 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,183  INFO Bus - Bus № 15 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,183  INFO Bus - Bus № 11 left the stop Kamarovsky market
+2021-07-21 09:18:06,183  INFO Bus - Bus № 11 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,184  INFO Bus - Bus № 10 left the stop Kamarovsky market
+2021-07-21 09:18:06,184  INFO Bus - Bus № 10 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,197  INFO Bus - Bus № 14 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,197  INFO Bus - Bus № 6 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:06,213  INFO Bus - Bus № 13 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,213  INFO Bus - Bus № 9 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,228  INFO Bus - Bus № 6 left the stop Gorky Park
+2021-07-21 09:18:06,228  INFO Bus - Bus № 17 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,229  INFO Bus - Bus № 11 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,229  INFO Bus - Bus № 19 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,229  INFO Bus - Bus № 15 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,229  INFO Bus - Bus № 10 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,229  INFO Bus - Bus № 10 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:06,230  INFO Bus - Bus № 21 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,244  INFO Bus - Bus № 9 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,244  INFO Bus - Bus № 9 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:06,259  INFO Bus - Bus № 17 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,259  INFO Bus - Bus № 16 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,276  INFO Bus - Bus № 9 left the stop Gorky Park
+2021-07-21 09:18:06,277  INFO Bus - Bus № 20 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,277  INFO Bus - Bus № 21 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,278  INFO Bus - Bus № 53 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,278  INFO Bus - Bus № 10 left the stop Gorky Park
+2021-07-21 09:18:06,278  INFO Bus - Bus № 22 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,278  INFO Bus - Bus № 19 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,278  INFO Bus - Bus № 25 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,290  INFO Bus - Bus № 16 left the stop Kamarovsky market
+2021-07-21 09:18:06,290  INFO Bus - Bus № 26 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,321  INFO Bus - Bus № 26 left the stop Kamarovsky market
+2021-07-21 09:18:06,321  INFO Bus - Bus № 53 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,321  INFO Bus - Bus № 22 left the stop Kamarovsky market
+2021-07-21 09:18:06,321  INFO Bus - Bus № 20 left the stop Kamarovsky market
+2021-07-21 09:18:06,321  INFO Bus - Bus № 25 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,332  INFO Bus - Bus № 25 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,324  INFO Bus - Bus № 30 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,321  INFO Bus - Bus № 22 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,321  INFO Bus - Bus № 53 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,321  INFO Bus - Bus № 18 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:06,369  INFO Bus - Bus № 18 left the stop Gorky Park
+2021-07-21 09:18:06,370  INFO Bus - Bus № 18 drove up to the Independence Square bus stop 
+2021-07-21 09:18:06,370  INFO Bus - Bus № 53 left the stop Kamarovsky market
+2021-07-21 09:18:06,370  INFO Bus - Bus № 29 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,371  INFO Bus - Bus № 22 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,371  INFO Bus - Bus № 32 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,371  INFO Bus - Bus № 30 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,371  INFO Bus - Bus № 25 left the stop Kamarovsky market
+2021-07-21 09:18:06,372  INFO Bus - Bus № 25 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,371  INFO Bus - Bus № 30 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,401  INFO Bus - Bus № 32 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,401  INFO Bus - Bus № 27 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,401  INFO Bus - Bus № 18 left the stop Independence Square
+2021-07-21 09:18:06,401  INFO Bus - Bus № 24 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:06,401  INFO Bus - Bus № 18 returned to the depot
+2021-07-21 09:18:06,402  INFO Bus - Bus № 29 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,402  INFO Bus - Bus № 28 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,417  INFO Bus - Bus № 25 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,417  INFO Bus - Bus № 41 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,417  INFO Bus - Bus № 30 left the stop Kamarovsky market
+2021-07-21 09:18:06,417  INFO Bus - Bus № 35 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,433  INFO Bus - Bus № 28 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,434  INFO Bus - Bus № 36 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,435  INFO Bus - Bus № 24 left the stop Gorky Park
+2021-07-21 09:18:06,435  INFO Bus - Bus № 38 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,435  INFO Bus - Bus № 27 left the stop Kamarovsky market
+2021-07-21 09:18:06,435  INFO Bus - Bus № 27 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,449  INFO Bus - Bus № 41 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,449  INFO Bus - Bus № 40 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,451  INFO Bus - Bus № 35 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,452  INFO Bus - Bus № 39 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,480  INFO Bus - Bus № 36 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,481  INFO Bus - Bus № 47 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:06,481  INFO Bus - Bus № 27 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,481  INFO Bus - Bus № 46 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,481  INFO Bus - Bus № 38 left the stop Kamarovsky market
+2021-07-21 09:18:06,481  INFO Bus - Bus № 37 drove up to the Independence Square bus stop 
+2021-07-21 09:18:06,500  INFO Bus - Bus № 39 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,501  INFO Bus - Bus № 44 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,501  INFO Bus - Bus № 40 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,501  INFO Bus - Bus № 43 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,526  INFO Bus - Bus № 37 left the stop Independence Square
+2021-07-21 09:18:06,526  INFO Bus - Bus № 49 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,526  INFO Bus - Bus № 37 returned to the depot
+2021-07-21 09:18:06,528  INFO Bus - Bus № 46 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,528  INFO Bus - Bus № 46 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,528  INFO Bus - Bus № 47 left the stop Gorky Park
+2021-07-21 09:18:06,529  INFO Bus - Bus № 42 drove up to the Independence Square bus stop 
+2021-07-21 09:18:06,550  INFO Bus - Bus № 44 left the stop Kamarovsky market
+2021-07-21 09:18:06,550  INFO Bus - Bus № 23 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,551  INFO Bus - Bus № 43 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,551  INFO Bus - Bus № 50 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,557  INFO Bus - Bus № 49 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,557  INFO Bus - Bus № 51 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:06,574  INFO Bus - Bus № 42 left the stop Independence Square
+2021-07-21 09:18:06,574  INFO Bus - Bus № 4 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:06,575  INFO Bus - Bus № 42 returned to the depot
+2021-07-21 09:18:06,579  INFO Bus - Bus № 46 left the stop Kamarovsky market
+2021-07-21 09:18:06,579  INFO Bus - Bus № 3 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:06,589  INFO Bus - Bus № 51 left the stop Gorky Park
+2021-07-21 09:18:06,590  INFO Bus - Bus № 23 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,590  INFO Bus - Bus № 50 left the stop Kamarovsky market
+2021-07-21 09:18:06,590  INFO Bus - Bus № 23 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,590  INFO Bus - Bus № 48 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:06,590  INFO Bus - Bus № 50 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,620  INFO Bus - Bus № 3 left the stop Gorky Park
+2021-07-21 09:18:06,620  INFO Bus - Bus № 33 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,620  INFO Bus - Bus № 4 left the stop Gorky Park
+2021-07-21 09:18:06,621  INFO Bus - Bus № 7 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,635  INFO Bus - Bus № 50 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,635  INFO Bus - Bus № 1 drove up to the Independence Square bus stop 
+2021-07-21 09:18:06,635  INFO Bus - Bus № 48 left the stop Gorky Park
+2021-07-21 09:18:06,635  INFO Bus - Bus № 2 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:06,636  INFO Bus - Bus № 23 left the stop Kamarovsky market
+2021-07-21 09:18:06,636  INFO Bus - Bus № 5 drove up to the Independence Square bus stop 
+2021-07-21 09:18:06,651  INFO Bus - Bus № 33 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,651  INFO Bus - Bus № 33 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:06,666  INFO Bus - Bus № 1 left the stop Independence Square
+2021-07-21 09:18:06,666  INFO Bus - Bus № 8 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:06,666  INFO Bus - Bus № 1 returned to the depot
+2021-07-21 09:18:06,666  INFO Bus - Bus № 7 left the stop Kamarovsky market
+2021-07-21 09:18:06,666  INFO Bus - Bus № 7 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,681  INFO Bus - Bus № 5 left the stop Independence Square
+2021-07-21 09:18:06,681  INFO Bus - Bus № 12 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,681  INFO Bus - Bus № 5 returned to the depot
+2021-07-21 09:18:06,682  INFO Bus - Bus № 2 left the stop Gorky Park
+2021-07-21 09:18:06,682  INFO Bus - Bus № 14 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,696  INFO Bus - Bus № 33 left the stop Gorky Park
+2021-07-21 09:18:06,696  INFO Bus - Bus № 13 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,712  INFO Bus - Bus № 12 left the stop Kamarovsky market
+2021-07-21 09:18:06,712  INFO Bus - Bus № 7 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,713  INFO Bus - Bus № 7 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:06,713  INFO Bus - Bus № 6 drove up to the Independence Square bus stop 
+2021-07-21 09:18:06,713  INFO Bus - Bus № 8 left the stop Gorky Park
+2021-07-21 09:18:06,713  INFO Bus - Bus № 11 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:06,728  INFO Bus - Bus № 13 left the stop Kamarovsky market
+2021-07-21 09:18:06,729  INFO Bus - Bus № 15 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,729  INFO Bus - Bus № 14 left the stop Kamarovsky market
+2021-07-21 09:18:06,729  INFO Bus - Bus № 17 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,759  INFO Bus - Bus № 6 left the stop Independence Square
+2021-07-21 09:18:06,760  INFO Bus - Bus № 9 drove up to the Independence Square bus stop 
+2021-07-21 09:18:06,760  INFO Bus - Bus № 6 returned to the depot
+2021-07-21 09:18:06,763  INFO Bus - Bus № 7 left the stop Gorky Park
+2021-07-21 09:18:06,763  INFO Bus - Bus № 21 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,763  INFO Bus - Bus № 11 left the stop Gorky Park
+2021-07-21 09:18:06,763  INFO Bus - Bus № 10 drove up to the Independence Square bus stop 
+2021-07-21 09:18:06,774  INFO Bus - Bus № 15 left the stop Kamarovsky market
+2021-07-21 09:18:06,775  INFO Bus - Bus № 19 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,775  INFO Bus - Bus № 17 left the stop Kamarovsky market
+2021-07-21 09:18:06,775  INFO Bus - Bus № 16 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,805  INFO Bus - Bus № 10 left the stop Independence Square
+2021-07-21 09:18:06,805  INFO Bus - Bus № 26 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,805  INFO Bus - Bus № 10 returned to the depot
+2021-07-21 09:18:06,805  INFO Bus - Bus № 9 left the stop Independence Square
+2021-07-21 09:18:06,805  INFO Bus - Bus № 21 left the stop Kamarovsky market
+2021-07-21 09:18:06,806  INFO Bus - Bus № 21 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,806  INFO Bus - Bus № 20 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,806  INFO Bus - Bus № 9 returned to the depot
+2021-07-21 09:18:06,820  INFO Bus - Bus № 16 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,820  INFO Bus - Bus № 19 left the stop Kamarovsky market
+2021-07-21 09:18:06,820  INFO Bus - Bus № 19 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,820  INFO Bus - Bus № 53 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,836  INFO Bus - Bus № 26 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,837  INFO Bus - Bus № 22 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:06,851  INFO Bus - Bus № 21 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,851  INFO Bus - Bus № 32 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,851  INFO Bus - Bus № 20 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,852  INFO Bus - Bus № 29 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,852  INFO Bus - Bus № 53 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,852  INFO Bus - Bus № 25 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:06,852  INFO Bus - Bus № 19 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,852  INFO Bus - Bus № 30 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,906  INFO Bus - Bus № 22 left the stop Gorky Park
+2021-07-21 09:18:06,906  INFO Bus - Bus № 28 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:06,906  INFO Bus - Bus № 32 left the stop Kamarovsky market
+2021-07-21 09:18:06,906  INFO Bus - Bus № 24 drove up to the Independence Square bus stop 
+2021-07-21 09:18:06,907  INFO Bus - Bus № 30 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,907  INFO Bus - Bus № 41 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,907  INFO Bus - Bus № 25 left the stop Gorky Park
+2021-07-21 09:18:06,907  INFO Bus - Bus № 35 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:06,907  INFO Bus - Bus № 29 left the stop Kamarovsky market
+2021-07-21 09:18:06,907  INFO Bus - Bus № 36 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:06,945  INFO Bus - Bus № 36 left the stop Kamarovsky market
+2021-07-21 09:18:06,946  INFO Bus - Bus № 27 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:06,946  INFO Bus - Bus № 35 left the stop Gorky Park
+2021-07-21 09:18:06,946  INFO Bus - Bus № 24 left the stop Independence Square
+2021-07-21 09:18:06,946  INFO Bus - Bus № 24 returned to the depot
+2021-07-21 09:18:06,946  INFO Bus - Bus № 39 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:06,946  INFO Bus - Bus № 41 left the stop Kamarovsky market
+2021-07-21 09:18:06,946  INFO Bus - Bus № 41 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,946  INFO Bus - Bus № 38 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,947  INFO Bus - Bus № 28 left the stop Gorky Park
+2021-07-21 09:18:06,947  INFO Bus - Bus № 28 drove up to the Independence Square bus stop 
+2021-07-21 09:18:06,985  INFO Bus - Bus № 39 left the stop Gorky Park
+2021-07-21 09:18:06,985  INFO Bus - Bus № 27 left the stop Gorky Park
+2021-07-21 09:18:06,986  INFO Bus - Bus № 27 drove up to the Independence Square bus stop 
+2021-07-21 09:18:06,986  INFO Bus - Bus № 40 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:06,992  INFO Bus - Bus № 41 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,992  INFO Bus - Bus № 47 drove up to the Independence Square bus stop 
+2021-07-21 09:18:06,993  INFO Bus - Bus № 38 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:06,993  INFO Bus - Bus № 28 left the stop Independence Square
+2021-07-21 09:18:06,993  INFO Bus - Bus № 28 returned to the depot
+2021-07-21 09:18:06,993  INFO Bus - Bus № 44 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:06,993  INFO Bus - Bus № 43 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:07,023  INFO Bus - Bus № 47 left the stop Independence Square
+2021-07-21 09:18:07,023  INFO Bus - Bus № 49 drove up to the Kamarovsky market bus stop 
+2021-07-21 09:18:07,023  INFO Bus - Bus № 47 returned to the depot
+2021-07-21 09:18:07,023  INFO Bus - Bus № 40 left the stop Gorky Park
+2021-07-21 09:18:07,023  INFO Bus - Bus № 27 left the stop Independence Square
+2021-07-21 09:18:07,024  INFO Bus - Bus № 27 returned to the depot
+2021-07-21 09:18:07,024  INFO Bus - Bus № 51 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,024  INFO Bus - Bus № 46 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:07,038  INFO Bus - Bus № 43 left the stop Kamarovsky market
+2021-07-21 09:18:07,038  INFO Bus - Bus № 44 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:07,038  INFO Bus - Bus № 44 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:07,038  INFO Bus - Bus № 3 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,068  INFO Bus - Bus № 3 left the stop Independence Square
+2021-07-21 09:18:07,068  INFO Bus - Bus № 4 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,069  INFO Bus - Bus № 3 returned to the depot
+2021-07-21 09:18:07,069  INFO Bus - Bus № 44 left the stop Gorky Park
+2021-07-21 09:18:07,069  INFO Bus - Bus № 51 left the stop Independence Square
+2021-07-21 09:18:07,069  INFO Bus - Bus № 50 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:07,070  INFO Bus - Bus № 48 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,070  INFO Bus - Bus № 51 returned to the depot
+2021-07-21 09:18:07,070  INFO Bus - Bus № 46 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:07,070  INFO Bus - Bus № 46 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:07,070  INFO Bus - Bus № 49 left the stop Kamarovsky market
+2021-07-21 09:18:07,070  INFO Bus - Bus № 49 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:07,120  INFO Bus - Bus № 50 left the stop Gorky Park
+2021-07-21 09:18:07,126  INFO Bus - Bus № 23 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:07,127  INFO Bus - Bus № 48 left the stop Independence Square
+2021-07-21 09:18:07,127  INFO Bus - Bus № 2 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,128  INFO Bus - Bus № 48 returned to the depot
+2021-07-21 09:18:07,128  INFO Bus - Bus № 46 left the stop Gorky Park
+2021-07-21 09:18:07,129  INFO Bus - Bus № 33 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,129  INFO Bus - Bus № 49 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:07,129  INFO Bus - Bus № 12 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:07,129  INFO Bus - Bus № 4 left the stop Independence Square
+2021-07-21 09:18:07,130  INFO Bus - Bus № 8 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,131  INFO Bus - Bus № 4 returned to the depot
+2021-07-21 09:18:07,169  INFO Bus - Bus № 23 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:07,169  INFO Bus - Bus № 2 left the stop Independence Square
+2021-07-21 09:18:07,169  INFO Bus - Bus № 12 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:07,170  INFO Bus - Bus № 12 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:07,169  INFO Bus - Bus № 33 left the stop Independence Square
+2021-07-21 09:18:07,170  INFO Bus - Bus № 33 returned to the depot
+2021-07-21 09:18:07,170  INFO Bus - Bus № 13 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:07,169  INFO Bus - Bus № 8 left the stop Independence Square
+2021-07-21 09:18:07,171  INFO Bus - Bus № 14 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:07,171  INFO Bus - Bus № 7 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,171  INFO Bus - Bus № 8 returned to the depot
+2021-07-21 09:18:07,171  INFO Bus - Bus № 11 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,171  INFO Bus - Bus № 2 returned to the depot
+2021-07-21 09:18:07,209  INFO Bus - Bus № 13 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:07,209  INFO Bus - Bus № 15 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:07,209  INFO Bus - Bus № 14 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:07,209  INFO Bus - Bus № 17 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:07,210  INFO Bus - Bus № 7 left the stop Independence Square
+2021-07-21 09:18:07,210  INFO Bus - Bus № 16 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:07,211  INFO Bus - Bus № 7 returned to the depot
+2021-07-21 09:18:07,215  INFO Bus - Bus № 11 left the stop Independence Square
+2021-07-21 09:18:07,215  INFO Bus - Bus № 11 returned to the depot
+2021-07-21 09:18:07,215  INFO Bus - Bus № 26 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:07,216  INFO Bus - Bus № 12 left the stop Gorky Park
+2021-07-21 09:18:07,216  INFO Bus - Bus № 21 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:07,241  INFO Bus - Bus № 15 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:07,241  INFO Bus - Bus № 17 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:07,241  INFO Bus - Bus № 17 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:07,241  INFO Bus - Bus № 20 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:07,256  INFO Bus - Bus № 16 left the stop Gorky Park
+2021-07-21 09:18:07,256  INFO Bus - Bus № 26 left the stop Gorky Park
+2021-07-21 09:18:07,256  INFO Bus - Bus № 21 left the stop Gorky Park
+2021-07-21 09:18:07,256  INFO Bus - Bus № 26 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,256  INFO Bus - Bus № 53 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:07,256  INFO Bus - Bus № 21 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,272  INFO Bus - Bus № 20 left the stop Gorky Park
+2021-07-21 09:18:07,272  INFO Bus - Bus № 17 left the stop Gorky Park
+2021-07-21 09:18:07,272  INFO Bus - Bus № 19 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:07,272  INFO Bus - Bus № 17 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,287  INFO Bus - Bus № 53 left the stop Gorky Park
+2021-07-21 09:18:07,287  INFO Bus - Bus № 21 left the stop Independence Square
+2021-07-21 09:18:07,287  INFO Bus - Bus № 26 left the stop Independence Square
+2021-07-21 09:18:07,287  INFO Bus - Bus № 32 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:07,287  INFO Bus - Bus № 21 returned to the depot
+2021-07-21 09:18:07,287  INFO Bus - Bus № 22 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,287  INFO Bus - Bus № 30 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:07,287  INFO Bus - Bus № 26 returned to the depot
+2021-07-21 09:18:07,303  INFO Bus - Bus № 17 left the stop Independence Square
+2021-07-21 09:18:07,303  INFO Bus - Bus № 19 left the stop Gorky Park
+2021-07-21 09:18:07,303  INFO Bus - Bus № 19 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,303  INFO Bus - Bus № 17 returned to the depot
+2021-07-21 09:18:07,303  INFO Bus - Bus № 25 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,319  INFO Bus - Bus № 32 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:07,319  INFO Bus - Bus № 29 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:07,319  INFO Bus - Bus № 30 left the stop Gorky Park
+2021-07-21 09:18:07,319  INFO Bus - Bus № 22 left the stop Independence Square
+2021-07-21 09:18:07,319  INFO Bus - Bus № 30 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,319  INFO Bus - Bus № 36 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:07,319  INFO Bus - Bus № 22 returned to the depot
+2021-07-21 09:18:07,335  INFO Bus - Bus № 19 left the stop Independence Square
+2021-07-21 09:18:07,335  INFO Bus - Bus № 25 left the stop Independence Square
+2021-07-21 09:18:07,335  INFO Bus - Bus № 25 returned to the depot
+2021-07-21 09:18:07,336  INFO Bus - Bus № 35 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,337  INFO Bus - Bus № 39 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,337  INFO Bus - Bus № 19 returned to the depot
+2021-07-21 09:18:07,351  INFO Bus - Bus № 36 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:07,351  INFO Bus - Bus № 41 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:07,351  INFO Bus - Bus № 30 left the stop Independence Square
+2021-07-21 09:18:07,351  INFO Bus - Bus № 38 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:07,351  INFO Bus - Bus № 30 returned to the depot
+2021-07-21 09:18:07,352  INFO Bus - Bus № 29 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:07,352  INFO Bus - Bus № 40 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,382  INFO Bus - Bus № 39 left the stop Independence Square
+2021-07-21 09:18:07,382  INFO Bus - Bus № 43 drove up to the Krasnozvezdnaya street bus stop 
+2021-07-21 09:18:07,383  INFO Bus - Bus № 39 returned to the depot
+2021-07-21 09:18:07,389  INFO Bus - Bus № 35 left the stop Independence Square
+2021-07-21 09:18:07,389  INFO Bus - Bus № 44 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,389  INFO Bus - Bus № 35 returned to the depot
+2021-07-21 09:18:07,405  INFO Bus - Bus № 40 left the stop Independence Square
+2021-07-21 09:18:07,405  INFO Bus - Bus № 50 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,405  INFO Bus - Bus № 40 returned to the depot
+2021-07-21 09:18:07,406  INFO Bus - Bus № 38 left the stop Gorky Park
+2021-07-21 09:18:07,406  INFO Bus - Bus № 46 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,406  INFO Bus - Bus № 41 left the stop Gorky Park
+2021-07-21 09:18:07,407  INFO Bus - Bus № 49 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:07,430  INFO Bus - Bus № 44 left the stop Independence Square
+2021-07-21 09:18:07,431  INFO Bus - Bus № 23 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:07,431  INFO Bus - Bus № 44 returned to the depot
+2021-07-21 09:18:07,431  INFO Bus - Bus № 43 left the stop Krasnozvezdnaya street
+2021-07-21 09:18:07,432  INFO Bus - Bus № 13 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:07,451  INFO Bus - Bus № 49 left the stop Gorky Park
+2021-07-21 09:18:07,451  INFO Bus - Bus № 46 left the stop Independence Square
+2021-07-21 09:18:07,451  INFO Bus - Bus № 46 returned to the depot
+2021-07-21 09:18:07,451  INFO Bus - Bus № 49 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,451  INFO Bus - Bus № 14 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:07,451  INFO Bus - Bus № 50 left the stop Independence Square
+2021-07-21 09:18:07,452  INFO Bus - Bus № 50 returned to the depot
+2021-07-21 09:18:07,452  INFO Bus - Bus № 12 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,476  INFO Bus - Bus № 23 left the stop Gorky Park
+2021-07-21 09:18:07,476  INFO Bus - Bus № 13 left the stop Gorky Park
+2021-07-21 09:18:07,476  INFO Bus - Bus № 13 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,476  INFO Bus - Bus № 15 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:07,492  INFO Bus - Bus № 14 left the stop Gorky Park
+2021-07-21 09:18:07,492  INFO Bus - Bus № 49 left the stop Independence Square
+2021-07-21 09:18:07,492  INFO Bus - Bus № 12 left the stop Independence Square
+2021-07-21 09:18:07,492  INFO Bus - Bus № 49 returned to the depot
+2021-07-21 09:18:07,492  INFO Bus - Bus № 20 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,492  INFO Bus - Bus № 16 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,492  INFO Bus - Bus № 53 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,492  INFO Bus - Bus № 12 returned to the depot
+2021-07-21 09:18:07,508  INFO Bus - Bus № 13 left the stop Independence Square
+2021-07-21 09:18:07,508  INFO Bus - Bus № 15 left the stop Gorky Park
+2021-07-21 09:18:07,508  INFO Bus - Bus № 32 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:07,508  INFO Bus - Bus № 13 returned to the depot
+2021-07-21 09:18:07,508  INFO Bus - Bus № 36 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:07,524  INFO Bus - Bus № 16 left the stop Independence Square
+2021-07-21 09:18:07,524  INFO Bus - Bus № 53 left the stop Independence Square
+2021-07-21 09:18:07,524  INFO Bus - Bus № 20 left the stop Independence Square
+2021-07-21 09:18:07,524  INFO Bus - Bus № 29 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:07,524  INFO Bus - Bus № 16 returned to the depot
+2021-07-21 09:18:07,524  INFO Bus - Bus № 53 returned to the depot
+2021-07-21 09:18:07,524  INFO Bus - Bus № 41 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,524  INFO Bus - Bus № 38 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,524  INFO Bus - Bus № 20 returned to the depot
+2021-07-21 09:18:07,540  INFO Bus - Bus № 36 left the stop Gorky Park
+2021-07-21 09:18:07,540  INFO Bus - Bus № 43 drove up to the Gorky Park bus stop 
+2021-07-21 09:18:07,540  INFO Bus - Bus № 32 left the stop Gorky Park
+2021-07-21 09:18:07,540  INFO Bus - Bus № 23 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,556  INFO Bus - Bus № 29 left the stop Gorky Park
+2021-07-21 09:18:07,556  INFO Bus - Bus № 38 left the stop Independence Square
+2021-07-21 09:18:07,556  INFO Bus - Bus № 38 returned to the depot
+2021-07-21 09:18:07,556  INFO Bus - Bus № 41 left the stop Independence Square
+2021-07-21 09:18:07,556  INFO Bus - Bus № 41 returned to the depot
+2021-07-21 09:18:07,556  INFO Bus - Bus № 15 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,556  INFO Bus - Bus № 14 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,556  INFO Bus - Bus № 36 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,572  INFO Bus - Bus № 23 left the stop Independence Square
+2021-07-21 09:18:07,572  INFO Bus - Bus № 43 left the stop Gorky Park
+2021-07-21 09:18:07,572  INFO Bus - Bus № 32 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,572  INFO Bus - Bus № 23 returned to the depot
+2021-07-21 09:18:07,572  INFO Bus - Bus № 43 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,588  INFO Bus - Bus № 14 left the stop Independence Square
+2021-07-21 09:18:07,588  INFO Bus - Bus № 36 left the stop Independence Square
+2021-07-21 09:18:07,588  INFO Bus - Bus № 15 left the stop Independence Square
+2021-07-21 09:18:07,588  INFO Bus - Bus № 29 drove up to the Independence Square bus stop 
+2021-07-21 09:18:07,588  INFO Bus - Bus № 36 returned to the depot
+2021-07-21 09:18:07,588  INFO Bus - Bus № 14 returned to the depot
+2021-07-21 09:18:07,588  INFO Bus - Bus № 15 returned to the depot
+2021-07-21 09:18:07,604  INFO Bus - Bus № 32 left the stop Independence Square
+2021-07-21 09:18:07,604  INFO Bus - Bus № 43 left the stop Independence Square
+2021-07-21 09:18:07,604  INFO Bus - Bus № 43 returned to the depot
+2021-07-21 09:18:07,604  INFO Bus - Bus № 32 returned to the depot
+2021-07-21 09:18:07,620  INFO Bus - Bus № 29 left the stop Independence Square
+2021-07-21 09:18:07,620  INFO Bus - Bus № 29 returned to the depot
+2021-07-21 09:18:07,620  INFO BusDepot - ----------------------------The day has finish-----------------------------

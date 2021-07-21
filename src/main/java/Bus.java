@@ -1,24 +1,46 @@
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 
-public class Bus extends Thread implements IBas,IRoute{
+import java.util.concurrent.Semaphore;
+
+public class Bus extends Thread implements IBas{
 
     private static final Logger LOGGER = LogManager.getLogger(Bus.class);
+    private static Semaphore semaphore = new Semaphore(5);
+    private static Route routeBus;
 
-    public Bus(int number) {
+    public Bus(int number, Route route) {
+
         super("Bus № " + number);
+        routeBus = route;
     }
 
     @Override
     public void run() {
-        LeftOnTheRoute();
-        FollowingOnRoute();
+        leftOnTheRoute();
         returnedToTheDepot();
     }
 
     @Override
-    public void LeftOnTheRoute() {
-        LOGGER.info(this + " the bus went on the route");
+    public void leftOnTheRoute() {
+        LOGGER.info(this + " went on the route");
+        for (int i = 0; i < routeBus.busStops.length ; i++) {
+            try {
+                semaphore.acquire();
+                pulledUpToBusStop( routeBus.busStops[i]);
+                disembarkationEmbarkationOfPassengers();
+                leftTheBus(routeBus.busStops[i]);
+            } catch (Exception e){
+                e.printStackTrace();
+            }finally {
+                semaphore.release();
+            }
+        }
+    }
+
+    @Override
+    public void pulledUpToBusStop(String busStop) {
+        LOGGER.info(this + " drove up to the " + busStop + " bus stop " );
     }
 
     @Override
@@ -27,8 +49,9 @@ public class Bus extends Thread implements IBas,IRoute{
     }
 
     @Override
-    public void leftTheBus() {
-        LOGGER.info(this + " left the stop");
+    public void leftTheBus(String busStop) {
+
+        LOGGER.info(this + " left the stop " + busStop);
     }
 
     @Override
@@ -39,20 +62,4 @@ public class Bus extends Thread implements IBas,IRoute{
     @Override
     public String toString() { return  this.getName(); }
 
-    @Override
-    public void FollowingOnRoute() {
-        int countBusStops = Utility.random(1,6);
-        for (int i = 1; i <=countBusStops ; i++) {
-            putBusStopsToRoute();
-            disembarkationEmbarkationOfPassengers();
-            leftTheBus();
-        }
-    }
-
-    @Override
-    public void putBusStopsToRoute() {
-        int goodNumber = Utility.random(0, BusStop.busesLength()-1);
-        String busStop = BusStop.getBusStop(goodNumber);
-        LOGGER.info(this + " " + "arrived at the stop" + " " + busStop);
-    }
 }
